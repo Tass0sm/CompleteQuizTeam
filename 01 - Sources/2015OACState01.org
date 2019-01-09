@@ -1,0 +1,314 @@
+* 2015 OAC States – Round 1
+* Round One
+American Literature: Answer the following about trees and plants in American poetry.
+Team A: What author wrote “I think that I shall never see a poem as lovely as a tree” in his poem “Trees”?
+ANSWER: Alfred Joyce Kilmer
+Team B: What author of the essay “Nature” and essay collection Representative Men wrote about “The self-same power
+that brought me there, brought you” in his plant poem “The Rhodora” (ROH-dor-uh)?
+ANSWER: Ralph Waldo Emerson
+Tossup: One poem by this author asserts “Earth’s the right place for love: I don’t know where it’s likely to go better.”
+That plant-centric poem by this author describes how ice-storms cause the title plants to stay down. That poem, which was
+read at JFK’s inauguration, asserts “One could do worse than be a swinger” of the title plants. Another plant-centric poem
+by this author features a speaker who wishes he could state “But here there are no cows” to a person who repeatedly
+exclaims “Good fences make good neighbors.” Name this author who wrote “Birches” and “Mending Wall.”
+ANSWER: Robert Lee Frost
+Mathematics: Give the following related to properties of functions.
+Team B: The horizontal line test is used to test for what property of functions, in which the values of the codomain are
+never mapped to more than once.
+ANSWER: one-to-one [accept injective function or injection]
+Team A: When the codomain of a function equals its range, the function has this property in which the range is
+completely “covered.”
+ANSWER: onto [accept surjective function or surjection]
+Tossup: This property of a function is defined if and only if a function is one-to-one and onto. The conditions for this sort
+of property to exist are given by a theorem in differential calculus that is proven using the contraction mapping theorem.
+Continuous functions have this property if and only if its derivative is completely positive. For the logarithm function, this
+property of the function is the exponential function, and for x2
+(“x squared”) this kind of function is the square root of x.
+Name this type of function, which switches the domain with its range and vice versa.
+ANSWER: inverse function [accept invertible functions]
+World History: Name these Asian nations.
+Team A: The 1923 Treaty of Lausanne (loh-SAHN) recognized the sovereignty and established the borders of this nation
+which was first ruled independently by Mustafa Kemal.
+ANSWER: Republic of Turkey [or Turkiye Cumhuriyeti]
+Team B: Leaders of the Safavid Dynasty administered an area centered in this present day nation, which is currently ruled
+by a man who succeeded Mahmoud Ahmadinejad (mah-MOOD ah-mah-dee-nee-ZHAHD) in 2013.
+ANSWER: Islamic Republic of Iran [or Jomhuri-ye Eslami-ye Iran]
+Tossup: A government known by the acronym GRUNK was formed by a deposed leader of this country who had earlier
+established the Sangkum movement. The United Nations oversaw the administration of this country in the aftermath of
+the 1991 Paris Peace Agreements. S-21 was the designation of a former prison, now known as Tuol (“tool”) Sleng, that
+was used during a genocide in this nation, which saw a civil war that deposed Norodom Sihanouk (noh-roh-“DOME” see-
+hah-NOOK) in 1970. One government of this nation established mass burial sites known as the “killing fields” and
+changed this nation’s name to Democratic (*) Kampuchea. Name this Southeast Asian nation that was ruled briefly by the
+Khmer Rouge under the leadership of Pol Pot.
+ANSWER: Kingdom of Cambodia [accept Preahreacheanachakr Kampuchea before (*)]
+Fine Arts: Name these American artists.
+Team B: Amid the Battle of Quebec, a Native American sits in a pose reminiscent of Rodin’s The Thinker in the best
+known work by this colonial-era artist who also painted Penn's Treaty with the Indians.
+ANSWER: Benjamin West
+Team A: Five paintings comprise the Course of Empire series created by this 19th century artist whose other notable
+works include The Titan’s Goblet and The Oxbow.
+ANSWER: Thomas Cole
+Tossup: An impending hilltop collision between a car and red truck is the subject of this artist’s painting Death on Ridge
+Road. One painting by this artist depicts a tall church being passed by a galloping horse, while another of his works shows
+three old ladies standing in front of a copy of Emanuel Leutze’s (LOYT-zuhz) Washington Crossing the Delaware. Those
+paintings are The Midnight Ride of Paul Revere and Daughters of Revolution. The Dibble House is portrayed in his best
+known work, which depicts two figures modeled after this artist’s sister Nan and his dentist Byron McKeeby. Name this
+Iowa native who shows a bespectacled farmer holding a pitchfork in his 1930 painting American Gothic.
+ANSWER: Grant DeVolson Wood
+Life Science: Name these organisms important to the history of biology.
+Team A: The first virus to be discovered was one that infects this plant. This model organism is often used in plant
+virology studies and has high levels of regeneration, making it a great plant for tissue culture.
+ANSWER: tobacco [or Nicotiana]
+Team B: This weed is the most widely-used model plant organism because of its short lifespan and relatively small
+genome.
+ANSWER: Arabidopsis thaliana
+Tossup: In 2014, the ICE-First-Aging experiment studied aging in this organism in space flight conditions. In 2012, this
+model organism’s connectome was fully mapped, and it currently remains the only organism in which that has been
+accomplished. Sydney Brenner pioneered the use of this organism. This organism goes through four larval stages called
+L1 to L4, but it can respond to stresses by entering a dauer (DOW-err) stage. Fire and Mello studied RNA interference in
+this animal. Mature hermaphrodites of it have 959 somatic cells, and it was the first multicellular organism to have its
+genome sequenced. Name this model organism that is a nematode.
+ANSWER: Caenorhabditis elegans [prompt on “Nematoda” or “nematodes”]
+* Round Two
+English / World Literature: Give the following related to labyrinths mentioned in works of literature.
+Team B: “The Day of the Dead” is an essay in The Labyrinth of Solitude, which was written by what Mexican author?
+ANSWER: Octavio Paz Lozano
+Team A: “Pierre Menard, Author of the Quixote (kee-HO-tay)” is a short story that appears in Labyrinths, which was
+written by what Argentine master of the short story?
+ANSWER: Jorge Francisco Isidoro Luis Borges
+Tossup: A poet from this country who authored Heavensgate also wrote the collection Labyrinths, which features his
+poem “A Path of Thunder.” Another author from this country reimagined the Wedding of Cana in his adaptation of
+Euripides’ (YUR-ip-uh-deez-iz) The Bacchae (BAH-“key”). That author from this country wrote about Simon Pilkings
+interrupting Elesin’s (ELL-uh-sinz) ritual suicide. Another work by that author from this nation is about the love between
+Sidi (SEE-dee) and Lakunle (LUH-koon-lay). Those works from this nations are Death and the King’s Horseman and The
+Lion and the Jewel. Christopher Okigbo (OH-kig-boh) and Wole Soyinka (woll-AY soy-ING-kuh) are both natives of this
+African country which was also the birthplace of Chinua Achebe (uh-CHAY-bay).
+ANSWER: Federal Republic of Nigeria
+American Government / Economics: Name these former Attorneys General.
+Team A: James Madison’s final Attorney General was this Pennsylvania politician best known for negotiating an 1818
+disarmament treaty with British minister Charles Bagot (BAG-ut).
+ANSWER: Richard Rush [accept Rush-Bagot Treaty]
+Team B: Serving as the Attorney General under William Henry Harrison, John Tyler, and Millard Fillmore, this
+Kentuckian proposed a namesake 1860 compromise in a fruitless attempt to avoid the Civil War.
+ANSWER: John Jordan Crittenden [accept Crittenden Compromise]
+Tossup: The Senate rejected this politician’s nomination to the Supreme Court as a replacement for Gabriel Duvall. This
+man became Attorney General after the position was resigned by John Berrien, and he served briefly as Andrew Jackson’s
+Secretary of Treasury before being rejected by the Senate and replaced by Levi Woodbury. This man ruled that the writ of
+habeas corpus may not be suspended by the president in the case Ex parte Merryman, but he is best known for ruling that
+the Missouri Compromise was unconstitutional in an 1857 case which also determined that African-Americans were not
+U.S. citizens. What Chief Justice of the Supreme Court between 1836 and 1864 delivered the majority opinion in the Dred
+Scott case?
+ANSWER: Roger Brooke Taney
+Physical Science: Name the following related to physical constants from the study of electromagnetism.
+Team B: What constant, whose reciprocal is multiplied by 1/4pi (“one over four pi”) in Coulomb’s law, is partly
+determined by the magnetic permeability?
+ANSWER: vacuum permittivity or permittivity of free space or electric constant
+Team A: What other electromagnetic constant was first measured by Robert Millikan’s oil drop experiment?
+ANSWER: charge of the electron [accept fundamental charge]
+Tossup: This scientist gives his name to a constant defined by “e times h bar, divided by 2, times the electron rest mass,
+times the speed of light.” That constant gives the magnetic moment of an electron and is known as his “magneton.” The
+philosophical underpinnings of quantum mechanics were debated between Albert Einstein and this physicist, who
+defended his complementarity principle. This physicist also proposed that electrons occupy discrete levels above the
+nucleus, a model which Arnold Sommerfield refined into a better model. Name this 20th century Danish physicist who
+proposed a namesake model of the atom.
+ANSWER: Niels Henrik David Bohr
+Geography: Name these European rivers.
+Team A: With its source in the Cambrian Mountains, this river of northeast Spain flows through the city of Zaragoza
+before flowing into the Mediterranean Sea south of Barcelona.
+ANSWER: Ebro (EH-broh) River [or Ebre River]
+Team B: Near the end of its run, the Volga River is connected by a channel to this other Russian river that flows through
+the city of Rostov before emptying into the Sea of Azov near the Ukrainian border.
+ANSWER: Don River
+Tossup: This river is the site of an annual fireworks festival that occurs over five separate days and is known as this river
+“in Flames.” After the Sarpefossen in Norway, Europe’s largest waterfall is on this river, whose source is Lake Toma. The
+Aare (ARR-uh) River is a tributary of the high portion of this river, which flows past a large rock known as Lorelei (LOR-
+uh-lye) within a namesake gorge. This river, which discharges from Lake Constance, flows past the cities of Basel and
+Strasbourg before emptying into the North Sea at Rotterdam. The Western German cities of Bonn, Dusseldorf, and
+Cologne (kuh-LOHN) are on what river which forms part of the border between Germany and France?
+ANSWER: Rhine River [or Rhein River or Rijn River]
+American History: Name these activists or social reformers.
+Team B: The slums of New York’s Mulberry Street were the focus of one work by this Danish-American muckraker best
+known for authoring How the Other Half Lives.
+ANSWER: Jacob August Riis (“reese”)
+Team A: James Meredith’s historic efforts to enroll in the University of Mississippi were done with the aid of this
+NAACP field secretary whose civil rights activism contributed to his 1963 assassination by Byron De La Beckwith.
+ANSWER: Medgar Wiley Evers
+Tossup: This activist denounced racism within places of worship in a speech entitled “The Church and Prejudice,” and he
+noted that success is explained mainly by “work! work! work! work!” in his “Self-Made Men” speech. This man was
+nominated by the Equal Rights Party as the vice-presidential candidate on a ticket that included Victoria Woodhull. His
+servitude under Edward Covey and Thomas Auld was recounted in My Bondage and My Freedom, which was the second
+of his three autobiographies. The North Star newspaper was published by what 19th century African American activist
+who wrote a “narrative” of his life as “an American slave”?
+ANSWER: Frederick Douglass [or Frederick Augustus Washington Bailey]
+* Alphabet Round – Letter I
+1. (NAME AND REGNAL NUMBER REQUIRED) – 17th century Russian czar who co-ruled with his brother Peter
+the Great.
+2. In electromagnetism, this term refers to the production of an electromotive force across a conductor when a varying
+magnetic field is applied.
+3. This literary group of writers at the University of Oxford championed the power of narrative and fantasy; its members
+included J.R.R. Tolkien and C.S. Lewis.
+4. In Norse myth, the keeper of the golden apples and wife of Bragi.
+5. (MULTI-WORD ANSWER) – Fourth movement of Peer Gynt Suite No. 1, which depicts Peer Gynt’s encounter with
+trolls.
+6. Plato’s Phaedo uses the cyclic argument to argue that this philosophical idea with respect to the soul is true;
+Pythagoras’s belief in metempsychosis necessitates that this doctrine with respect to the soul be true.
+7. (MULTI-WORD ANSWER) – Name of the 1963 Martin Luther King Jr. speech which ends with the proclamation
+“we are free at last.”
+8. (MULTI-WORD ANSWER) – Location in the pancreas where hormones such as insulin and somatostatin are
+produced.
+9. 19th century French artist of The Turkish Bath and La Grande Odalisque.
+10. This narrator of Moby Dick is the sole survivor of the Pequod.
+11. Arm of the Mediterranean Sea which separates Italy from Greece.
+12. (TWO WORD ANSWER) – Alternate name of King Abdulaziz, who ruled as King of Saudi Arabia between 1932
+and 1953.
+13. This Savoy opera by Gilbert and Sullivan is named for a fairy that is the mother of Strephon; its characters include the
+Lord Chancellor, who is sung by a comic baritone.
+14. (TWO WORD ANSWER) – Analytical technique in which the structure of a molecule is determined based on how a
+bond vibrates; contains a “fingerprint region” that helps uniquely identify a molecule.
+15. In his poem “Dover Beach”, Matthew Arnold describes a “darkling plain…where [these kinds of] armies clash by
+night.”
+16. Book of the Bible which contains the Songs of the Suffering Servant.
+17. Alvin Toffler’s book Future Shock argued that people in futurological societies would be overloaded with what
+concept, whose omnipresence characterizes a “super-industrial society”?
+18. (TWO WORD ANSWER) – 1830 act which authorized relocation of the “Five Civilized Tribes” to lands west of the
+Mississippi River.
+19. (TWO WORD ANSWER) – In programming, this term refers to a piece of code with a flaw such that a while-
+condition is never satisfied; thus, the code is executed endlessly.
+20. This author wrote about a sculptor reuniting with his model in his last play When We Dead Awaken. Dr. Thomas
+Stockmann tries to warn people about poisoned water in another of his works.
+Alphabet Round – Letter I Answers
+1. Ivan V (the fifth) (NAME AND REGNAL NUMBER REQUIRED)
+2. induction [do not accept “inductance”]
+3. The Inklings
+4. Idunn
+5. “In the Hall of the Mountain King” (MULTI-WORD ANSWER)
+6. immortality of the soul or immortal soul
+7. “I Have A Dream” (MULTI-WORD ANSWER)
+8. islets of Langerhans (“eye”-litz “of” “LONG”-ur-hahnz) (MULTI-WORD ANSWER)
+9. Jean-Auguste-Dominique Ingres (AHN-gruh)
+10. Ishmael
+11. Ionian Sea
+12. Ibn Saud (TWO WORD ANSWER)
+13. Iolanthe; or, The Peer and the Peri
+14. infrared spectroscopy or IR spectroscopy (TWO WORD ANSWER)
+15. ignorant
+16. Book of Isaiah
+17. information
+18. Indian Removal Act (TWO WORD ANSWER)
+19. infinite loop (TWO WORD ANSWER)
+20. Henrik Johan Ibsen
+* Lightning Round
+1. At the behest of Ian Fleming, this author wrote a short story in which Mary Maloney kills her husband using a piece of
+lamb, which is then fed to the detective investigating that murder. This author also wrote the screenplay to the Bond film
+You Only Live Twice. One of this author’s novels ends with Miss Honey adopting the title character, who uses telekinesis
+to scare Miss Trunchbull. “Lamb to the Slaughter” and Matilda are works by what British children’s author best known
+for writing Charlie and the Chocolate Factory?
+ANSWER: Roald Dahl
+2. One son of this mythical man immolated himself after being driven mad for failing to honor Artemis. This father of
+Broteas conspired with Pandareus to steal and hide a golden dog belonging to Zeus. One action by this man resulted in his
+second son receiving a shoulder made of ivory. In one myth, this man steals ambrosia from Mount Olympus, but he is
+better known for chopping up his son, Pelops, and serving him as food to the gods. Name this mythical king who was
+punished with eternal hunger and thirst despite standing below a fruit tree in a pool of water.
+ANSWER: Tantalus [or Tantalos]
+3. The Bwindi Impenetrable Forest is in the southwest part of this nation, which controls the Ssese (SEH-say) Islands.
+Within this country, the Kazinga Channel connects the eastern end of Lake Edward to Lake George. Its western border
+goes through Lake Albert, which this nation shares with the Democratic Republic of the Congo. Located to the north of
+Rwanda, this nation controls the northwest part of Lake Victoria, which it shares with Kenya and Tanzania. Name this
+African nation whose capital is Kampala.
+ANSWER: Republic of Uganda [or Jamhuri ya Uganda]
+4. One side in this battle established their defensive line along the Rodriguez Canal. Following this battle, the winning
+side prevailed at the Siege of Fort St. Philip by repelling a fleet commanded by Alexander Cochrane. Losing commander
+Edward Pakenham was killed during this battle, which saw the winning side aided by the pirate Jean Lafitte. Name this
+battle in the War of 1812 in which Andrew Jackson defeated British troops after the Treaty of Ghent was signed.
+ANSWER: Battle of New Orleans
+5. In a carbohydrate, the anomeric carbon has a position of this number. In VSEPR (vesper) theory, there are this many
+lone pairs in the square pyramidal and seesaw geometries. This many hydrogen atoms are present in one molecule of
+chloroform. A sigma bond contains this many bonds, and alkali metals always have this oxidation state. Give this number
+that is the atomic number of hydrogen.
+ANSWER: one [or positive one or plus one; do not accept “negative one” or “minus one”]
+6. This writer portrayed Satan penning a series of epistles to the archangels Gabriel and Michael in his story “Letters from
+the Earth.” The first volume of his autobiography in three parts was published one-hundred years after his death. He
+described his older brother Orion in Roughing It, and he wrote about training under Horace Bixby in a memoir about his
+time as a steamboat pilot while on the title American river. Name this man who wrote the non-fiction work Life on the
+Mississippi.
+ANSWER: Mark Twain [or Samuel Langhorne Clemens]
+7. Remo Giazotto wrote a piece of this name “in G minor” which he falsely claimed was inspired by a manuscript
+fragment from the composer Tomaso Albinoni. Another piece whose title begins with this word was rearranged by its
+composer for the choir composition Agnus Dei. That piece by Samuel Barber is called “[this] for Strings.” Name this
+tempo marking which is faster than larghetto but slower than andante.
+ANSWER: adagio [accept “Adagio in G minor” or “Adagio for Strings”]
+8. This man discussed the subjugation of female society in “The Barbarian Status of Women.” In another book, he argued
+that football and other sports have value in society because they provide visible leisure. That book argues that the
+consumerist portions of society have led people to publically display their economic power, a practice known as
+conspicuous consumption. Name this American economist and sociologist who authored The Theory of the Leisure Class.
+ANSWER: Thorstein Bunde Veblen [accept Torsten Bunde Veblen]
+9. One conflict for control over this nation was ended by the Tela Accord. Augusto Sandino opposed the American
+influence in this nation that led to the ousting of President Jose Zelaya. The U.S. signed the Bryan-Chamorro Treaty with
+this nation, which was briefly ruled by American William Walker. Several members of the Somoza family have ruled this
+nation, which was, for much of the 1980s, embroiled in conflict between the Contras and Sandinistas. Name this Central
+American nation currently ruled by Daniel Ortega.
+ANSWER: Republic of Nicaragua [or Republica de Nicaragua]
+10. Following this event, Theonas of Marmarica and Secundus of Ptolemais were exiled to Illyria. Much of the authority
+of Meletius of Lycopolis was stripped during this event, which was overseen by Hosius of Cordoba. It established the
+doctrine of homoousios (HOH-moh-OO-see-ohss) to describe the relationship between God and Jesus, which served as a
+denouncement of Arianism. Name this AD 325 meeting, the first Christian ecumenical council, which established a
+namesake creed that begins “we believe in one God.”
+ANSWER: First Council of Nicaea (nye-SEE-uh) [prompt on “Nicene Creed”]
+11. For a pendulum, this quantity is given by the formula “mass, times gravity, times length, times one minus the cosine
+of the angle.” For a two particle system due to gravity, this quantity is given by the negative of “big G, times ‘m one’,
+times ‘m two’, divided by the distance between them.” For a particle on earth, it is given by the formula “mass, times
+height, times little g.” Name this quantity that is a measure of “stored work” in an object and contrasted with its “kinetic”
+counterpart.
+ANSWER: potential energy
+12. A murder mystery set in this country in which the killer is never revealed is described in the title as “That Awful
+Mess” which takes place on a street named “Merulana”. An adaptation of the French chanson de geste (SHAN-sohn duh
+jest) written in this country focuses on a paladin who meets Angelica before eloping to Cathay. Another writer from this
+country wrote the Canzoniere (can-ZOH-nee-AIR-ay) and described his love for Laura in Secretum Meum (see-CRAY-
+tum MAY-um). A volta divides a sestet and an octet in this country’s type of sonnet. Name this birth country of Petrarch.
+ANSWER: Italy [or Italian Republic or Italia or Repubblica Italiana]
+13. This man’s sculpture Table of Silence can be found at the Târgu Jiu (TAR-gew JYU) ensemble, which also features
+his artwork The Gate of the Kiss and a sculpture consisting of seventeen rhomboidal nodules, The Column of the Infinite.
+His most famous series of sculptures was taxed by U.S. customs for resembling scrap metal; those sculptures depict an
+animal in motion. Name this Romanian sculptor who created Bird in Space.
+ANSWER: Constantin Brancusi (bran-KOOSH)
+14. During this conflict, the rule of one king was recognized by the Titulus Regius. The Act of Accord attempted to end
+this war, but it was soon violated at the Battle of Wakefield. St. Albans was the site of two battles in this war, during
+which English King Edward IV (the fourth) came to power. Near the end of this war, Richard III (the third) was killed at
+the Battle of Bosworth Field, leading to the rule of the Tudor Dynasty under Henry VII (the seventh). Name this 15th
+century English conflict fought between the Houses of York and Lancaster.
+ANSWER: War(s) of the Roses [accept Rose War(s)]
+15. These structures may be classified as transverse when a series of their long ridges are separated by troughs, or they can
+be classified as barchans (bar-KAHNZ) when they are generally crescent shaped. They are typically limited in size by the
+angle of repose, which is usually about thirty-four degrees. The slip face of these structures typically faces against the
+wind, which creates their counterparts, the broadsides. Name these conical collections of sand found in desert areas.
+ANSWER: sand dunes [do not prompt on or accept “sand” by itself]
+16. This philosopher’s love life is the subject of a novel by Nancy Mitford which details his relationship with Emilie du
+Chatelet (SHAH-tuh-lay), whom this figure called a “great man whose only fault was being a woman.” He criticized the
+church in his oft-censored Philosophical Dictionary. The phrase “we must cultivate our gardens” ends a novel by this man
+which satirized the philosophy of Gottfried Leibniz with the character of Dr. Pangloss. Name this French Enlightenment
+philosophe who wrote Candide.
+ANSWER: Voltaire [or François-Marie Arouet]
+17. This artist depicted a man holding up two fingers to signal a boy, who pulls a six of clubs from a belt behind his back,
+in the painting Cardsharps. An old woman looks on while the first title figure plunges a sword through the neck of the
+second title figure in his version of Judith Beheading Holofernes. In another work, a ray of light shines over several men
+counting coins at a table while the title figure is being beckoned by Jesus. Name this Italian painter of The Calling of Saint
+Matthew.
+ANSWER: Caravaggio (kar-uh-VAH-jee-oh) [or Michelangelo da Merisi (muh-REE-zee); do not accept or prompt on
+“Michelangelo”]
+18. This author wrote about the economic genius of Jesus in the preface to his play Androcles and the Lion. He also wrote
+about John Tanner, the descendant of Don Juan, in a play whose third act features Don Juan talking to the devil. In
+another of this author’s plays, a whisky distiller and an arms manufacturer named Andrew Undershaft make a donation to
+the Salvation Army. Name this late Victorian dramatist who authored Man and Superman and Major Barbara.
+ANSWER: George Bernard Shaw
+19. CD20 is found on these cells until they fully mature. Once activated, these cells undergo isotype switching inside the
+germinal center of a lymph node. These cells can differentiate into either plasma cells or memory cells. Their main job is
+to produce antibodies. Name this type of white blood cell, which is named because it matures in the bone marrow, unlike
+T cells.
+ANSWER: B cells [prompt on white blood cell or leukocyte or lymphocyte]
+20. The lyrics “yet what force on earth is weaker than the feeble strength of one” appear in this (*) organization’s song
+“Solidarity Forever.” Several of its members were killed aboard the Verona during the Everett Massacre. It was
+cofounded by such people as “Mother” Jones and a man charged with the murder of Idaho Governor Frank Steunenberg.
+“Big Bill” Haywood was a leader and co-founder of what labor union whose members are known as “Wobblies.”
+ANSWER: IWW or Industrial Workers of the World [accept Wobblies before it is mentioned; prompt on “Solidarity
+Forever” before (*)]
+
