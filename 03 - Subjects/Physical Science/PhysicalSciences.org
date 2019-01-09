@@ -1,0 +1,318 @@
+*** Physical Science: Name these chemists.
+**** Team B:                                                          :drill:
+     :PROPERTIES:
+     :ID:       efaac4af-2f25-40a5-979e-5f648de3c718
+     :END:
+This man, who invented dynamite, lends his name to a set of annual
+prizes given out in Oslo and Stockholm.
+***** Answer
+Alfred Bernhard Nobel (no-BELL) [accept Nobel Prizes]
+**** Team A:                                                          :drill:
+     :PROPERTIES:
+     :ID:       ba72bae9-b839-43fb-aa0f-c45387aa85f3
+     :END:
+This Russian scientist’s most notable contribution was his creation of
+the periodic table.
+***** Answer
+Dmitri Ivanovich Mendeleyev
+  (MEN-duh-LAY-eff) 
+**** Tossup:                                                          :drill:
+     :PROPERTIES:
+     :ID:       b2ccfc96-775b-436d-931d-a69035135264
+     :END:
+This scientist determined that diamond was an allotrope of carbon, and
+he correctly noted that water was not a separate element. In his
+Methods of Chemical Nomenclature, he set up the first widely-used
+chemical naming system.  After experiments in which he heated solids
+inside closed containers and found no change in weight, he formulated
+the law of conservation of matter. This scientist discredited the
+phlogiston theory and named the element that was discovered out of it,
+oxygen. Identify this “father of modern chemistry”, a French scientist
+who was guillotined (GEE-uh-teend) during the French Revolution.
+***** Answer
+Antoine-Laurent de Lavoisier (lah-VWAH-zee-ay OR luh-vwah-ZYAY)
+
+*** Physics: Name these scientists.
+**** Team B:                                                          :drill:
+     :PROPERTIES:
+     :ID:       e8171298-a652-4c7f-9c58-488cb9387f96
+     :END:
+What Swedish astronomer gives his name to a scale that is defined by
+adding -273.15 units to the Kelvin scale?
+***** ANSWER:
+Anders Celsius
+**** Team A:                                                          :drill:
+     :PROPERTIES:
+     :ID:       30ff75bb-848a-4d1f-ab46-5ac5ebf52c9c
+     :END:
+What German physicist, known for proving the existence of
+electromagnetic waves, gives his name to the SI unit of frequency?
+***** ANSWER:
+Heinrich Rudolf Hertz
+**** Tossup:                                                          :drill:
+     :PROPERTIES:
+     :ID:       9c799da4-d68c-4151-bbbe-244b227647f9
+     :END:
+Like the hertz, this scientist’s namesake SI derived unit has units of
+inverse seconds. This man’s father discovered that light changes the
+voltage of a material in the photovoltaic effect. This scientist’s
+greatest discovery involved salts that emitted rays; those rays were
+captured on photographic plates. He was awarded a Nobel Prize in
+Physics along with Pierre and Marie Curie (“CURE”-ee) for his
+discovery of radioactivity in uranium. Name this scientist who gives
+his name to the SI unit of radioactivity, which is abbreviated “Bq”
+(“B” “Q”).
+***** ANSWER:
+Antoine Henri Becquerel
+
+*** Physics: Answer the following related to James Clerk Maxwell.
+**** Team B:                                                          :drill:
+     :PROPERTIES:
+     :ID:       bf2ad9b6-9b5e-4b22-98f0-01666ce5f007
+     :END:
+What scientist names the one of Maxwell’s equations that states that
+the divergence of a magnetic field must equal zero?
+***** ANSWER:
+Johann Carl Friedrich Gauss (gowss)
+**** Team A:                                                          :drill:
+     :PROPERTIES:
+     :ID:       48abad59-a2c8-40cb-9260-8fc02bec06b4
+     :END:
+This French scientist’s namesake law, which Maxwell re-derived,
+relates the current passing through a circuit to the strength of the
+magnetic field in the circuit.
+***** ANSWER:
+Andre-Marie Ampere (am-PEER)
+**** Tossup:                                                          :drill:
+     :PROPERTIES:
+     :ID:       e46a75d3-d994-4e67-8ded-dab6c85f6ca9
+     :END:
+Along with James Clerk Maxwell, Wilhelm Wien (veen) names a type of
+this device that is unusually used to measure inductance. A
+Kelvin-Varley divider is an analog of this device that is used to
+split a circuit’s voltage. They were invented by Samuel Christie and
+rely on Kirchoff’s (KEER-coffz) laws to measure an unknown
+quantity. They are similar to a potentiometer
+(poh-TEN-“she”-om-ih-tur) and are used to measure the electrical
+resistance of an unknown component. Name these diamond-shaped
+configurations that consist of four resistors and are a type of bridge
+circuit.
+***** ANSWER:
+Wheatstone bridge [prompt on “bridge” or “bridge circuits”]
+
+*** Physical Science: Answer the following about the periodic table.
+**** Team B:                                                          :drill:
+     :PROPERTIES:
+     :ID:       51099c30-4def-40b0-ba47-07ae9fbfecc8
+     :END:
+This quantity increases as one moves left and down on the
+table. Elements with more energy levels will have a larger value of
+this, which is decreased with increased nuclear charge.
+***** ANSWER:
+atomic radius [or Van der Waals radius; or covalent radius; or ionic radius; prompt on “radius”]
+**** Team A:                                                          :drill:
+     :PROPERTIES:
+     :ID:       386ca5f7-702b-481c-8fb8-f06e73f63ce0
+     :END:
+This number increases as one moves right on the periodic table, and it
+is simply defined as the number of electrons an atom has on its
+outermost shell.
+***** ANSWER:
+valence electrons
+**** Tossup:                                                          :drill:
+     :PROPERTIES:
+     :ID:       227e0455-9ff1-49c6-9a40-3e52d619121e
+     :END:
+Two elements in this group are responsible for M+2 peaks in mass
+spectroscopy and can be distinguished from each other based on whether
+those peaks are at a 3 to 1 or 1 to 1 ratio. The rarest element in
+this group is created through attacking bismuth-209 with alpha
+particles. Along with carbon, the lightest of this group of elements
+is found in Teflon.  Another element in this group can be used to test
+for starch. The two lightest elements of this group form diatomic
+gases at STP, while another is the only nonmetal to be liquid at room
+temperature. Name these group (*) 17 elements which include iodine,
+chlorine, and fluorine.
+***** ANSWER:
+halogens [accept group 17 befor]
+
+*** Physics: This set of questions will deal with the nature of light.
+**** Team B:                                                          :drill:
+     :PROPERTIES:
+     :ID:       57ad698a-14ca-42a1-9fba-abb631e21ce5
+     :END:
+Since light behaves like a wave at times, it will often exhibit what
+phenomenon, in which waves superpose to create a new wave with a
+different amplitude?
+***** ANSWER:
+interference [accept word forms]
+**** Team A:                                                          :drill:
+     :PROPERTIES:
+     :ID:       2e053867-515b-41e1-a652-aa7d54ea9d3a
+     :END:
+What physicist used a “grating” to conduct the double-slit experiment,
+in which he showed that light behaves like a wave and a particle?
+***** ANSWER:
+Thomas Young
+**** Tossup:                                                          :drill:
+     :PROPERTIES:
+     :ID:       4d92b78b-87e5-4c7c-9d50-cd02e96cdb1f
+     :END:
+Mantis shrimp are one of the few species that can detect light with
+this property. Dichroism (DYE-cro-ism) induced by light with this
+property is commonly used in a form of spectroscopy that examines the
+secondary structure of proteins. Light with a related planar property
+can be turned into light with this property by using a quarter
+wave-plate.  Like its “linear” counterpart, the intensity of light
+that has this property is given by Malus’ (MAL-iss-iz) law. Name this
+property of light, in which its electric field oscillates in a
+corkscrew fashion.
+***** ANSWER:
+circular polarization [accept word forms, prompt on “polarization”]
+
+*** Physical Science: Name these acids.
+**** Team B:                                                          :drill:
+     :PROPERTIES:
+     :ID:       b1fd7f04-296d-410e-896c-7973925c5f51
+     :END:
+This strong acid, which was called oil of vitriol in antiquity, is
+made by the lead chamber and contact processes.
+***** ANSWER:
+sulfuric acid [or H2SO4]
+**** Team A:                                                          :drill:
+     :PROPERTIES:
+     :ID:       1cc9fa5c-b978-412f-ad7a-1b75c068d8ec
+     :END:
+This other strong acid, which is formed from the Ostwald process, can
+come in red and white fuming varieties.
+***** ANSWER:
+nitric acid [or HNO3]
+**** Tossup:                                                          :drill:
+     :PROPERTIES:
+     :ID:       ae7154ce-5471-48b6-a64e-0e3ccc19699f
+     :END:
+A “trifluoro” derivative of this acid is used in reverse phase HPLC to
+increase resolution. When combined with sodium bi·carbonate, this acid
+reacts to form short-lived carbonic acid as one of its products. If no
+water is present in a solution of this acid, it is termed “glacial.”
+An outdated process for synthesizing this acid makes use of a catalyst
+containing rhodium, and that process was supplanted by one that uses
+an iridium catalyst; both of those processes add a carbonyl group to
+methanol. This acid is made through the Monsanto and Cativa
+processes. Name this carboxylic acid, which is found in low
+concentrations in vinegar.
+***** ANSWER:
+acetic (uh-SEE-tik) acid [or ethanoic acid or CH3COOH or CH3CO2H or C2H4O2]
+
+*** Physics: Questions in this category will deal with the physics of momentum transfer.
+**** Team B:                                                          :drill:
+     :PROPERTIES:
+     :ID:       e8403949-c27e-4fa6-94db-8d5ac69c398a
+     :END:
+What quantity, which is given as the time integral of force, is
+defined as the vector change in an object’s linear momentum?
+***** ANSWER:
+impulse
+**** Team A:                                                          :drill:
+     :PROPERTIES:
+     :ID:       45637288-7abe-4512-8264-0d0062b2e0a0
+     :END:
+For a two object system, this property of a system does not change in
+a collision since momentum is always conserved. For a rigid body, this
+property is the centroid.
+***** ANSWER:
+center of mass [do not accept “center of gravity”]
+**** Tossup:                                                          :drill:
+     :PROPERTIES:
+     :ID:       5333eea3-1ba8-4caa-8273-1c80adb183ce
+     :END:
+The maneuvers of these objects can be mathematically expressed by the
+Tsiolkovsky (SEAL-koff-skee) equation, which is derived by the
+conservation of momentum. Robert Forward proposed a specific type of
+this object known as a fission sail. These objects can have their
+momentum altered via staging, in which their excess weight is shed.  A
+theory relating to these objects was outlined in A Method of Reaching
+Extreme Altitudes by Robert Goddard. Typically, they use liquid or
+solid fuel to provide thrust. Name these spacecraft which have engines
+that eject propellant and were studied by Wernher von Braun (VAIR-err
+vahn brahn).
+***** ANSWER:
+rockets
+
+*** Physical Science: Answer the following about iron.
+**** Team B:                                                          :drill:
+     :PROPERTIES:
+     :ID:       f46d1b58-6a25-46fe-994d-49723be4d177
+     :END:
+Iron is the main component of steel, which is made through this
+process that creates steel out of pig iron.
+***** ANSWER:
+Bessemer process
+**** Team A:                                                          :drill:
+     :PROPERTIES:
+     :ID:       56ffc75e-fc7c-44c0-98fd-92264abef330
+     :END:
+To prevent iron from rusting, one can perform galvanization on it,
+which means plating the iron with this other element.
+***** ANSWER:
+zinc
+**** Tossup:                                                          :drill:
+     SCHEDULED: <2018-11-26 Mon>
+     :PROPERTIES:
+     :ID:       e66914d4-a3f9-4dd5-8bbe-64f79b164171
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2018-11-22 Thu 16:01]
+     :END:
+An iron-containing chemical named after this color is used medically
+to remove cesium and thallium from the body. A compound named after
+this color is used to treat methemo·globinemia. In a Bradford assay,
+solutions that contain protein will turn into this color; the reagent
+used in Bradford assays is a dye called Coomassie brilliant. A
+solution of copper in water turns this color. An iron-containing
+pigment is called the Prussian type of this color. In gaseous and
+liquid phases, ozone has this color. An indicator named after this
+color is called bromo·thymol. Name this color that litmus paper turns
+into when dipped into a basic solution.
+***** ANSWER:
+blue
+
+*** Physical Science: Name these types of chemicals.
+**** Team B:                                                          :drill:
+     :PROPERTIES:
+     :ID:       57b875b5-6589-4306-b962-ae0de00ddd89
+     :END:
+This type of solution is made of two liquids that cannot be separated
+by distillation. An example of one is 95% ethanol in water.
+***** ANSWER:
+azeotropes
+**** Team A:                                                          :drill:
+     :PROPERTIES:
+     :ID:       7e2c8522-1f04-42a9-899b-ccb50843c1bc
+     :END:
+Another liquid/liquid mixture is this type of colloid, examples of
+ which include mayonnaise and milk.
+***** ANSWER:
+emulsions
+**** Tossup:                                                          :drill:
+     :PROPERTIES:
+     :ID:       68203107-bc3c-4ed8-9971-3b6b6f1aef7c
+     :END:
+One type of this substance contains a carbon-nitrogen double bond,
+with the nitrogen bound to an R group. That type of this substance is
+named after (*) Schiff. Along with being a strong nucleophile, n-butyl
+lithium is one of the strongest examples of this type of chemical. In
+the inductive effect, the strength of these substances is increased by
+nearby electropositive groups, such as in guani·dinium. In the
+Henderson-Hasselbalch equation, the numerator of the log term is the
+conjugate type. They donate electron pairs according to Lewis theory,
+and most strong types lose a hydroxide in solution. Name these
+chemicals with a pH greater than 7.
+***** ANSWER:
+bases [or Lewis bases; or Bronsted-Lowry bases; or Arrhenius bases;
+accept imine until (*)]

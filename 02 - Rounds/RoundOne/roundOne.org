@@ -1,0 +1,1589 @@
+* Round One
+** American Literature: Give the following related to characters with intellectual disabilities in literature.
+    :PROPERTIES:
+    :ID:       a16c502b-51b8-4a03-b0c6-b8fe0160f7b4
+    :END:
+**  Team A:                                                           :drill:
+     :PROPERTIES:
+     :ID:       b48580ce-127e-4f2b-8a82-650486080da3
+     :END:
+A mentally deficient character named Lennie Small is shot by his
+companion George Milton at the end of what John Steinbeck novel?
+*** Answer
+Of Mice and Men
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       a0d10c54-420b-49ba-8074-19ad75816ab4
+     :END:
+What Daniel Keyes novel and short story of the same name focuses on a
+namesake lab mouse and Charlie Gordon, both of whom are given a
+surgery to greatly increase intelligence which they eventually slowly
+lose?pp
+*** Answer
+"Flowers for Algernon"
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       bba79436-9342-42cb-8db8-f48d716088b8
+     :END:
+This author wrote a novel about a mentally depressed woman who
+befriends Doreen and has a relationship with Buddy Willard. That
+novel’s protagonist gets a summer internship at a magazine named
+Ladies’ Day, undergoes electroconvulsive therapy, and is named Esther
+Greenwood. In one of this author’s poems, the speaker states “There’s
+a stake in your fat black heart and the villagers never liked you”;
+that poem by her ends “you bastard, I’m through.” Name this author who
+wrote the novel The Bell Jar and the poem “Daddy.”
+*** Answer
+Sylvia Plath
+** Mathematics: Pencil and paper ready. Give the following related to trigonometric functions. You will have 20 seconds for each team question.
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       b21a9763-ab3c-4a6a-a3f1-4fb791fceb4d
+     :END:
+Simplify, as much as possible, the following trigonometric expression:
+tan x / sec x (“tangent of x divided by secant of x”).
+*** Answer
+sine of x
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       1f06bd73-73a8-4bf4-a32e-df3124d51107
+     :END:
+Simplify, as much as possible, the following trigonometric expression:
+   “sin x cot x” (“sin of x times cotangent of x”).
+*** Answer
+cosine of x
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       b25d64d1-4188-4186-8f90-dfa959f3512c
+     :END:
+Pencil and paper will not be necessary. The derivative of the
+hyperbolic version of this trigonometric function is (ex – e-x ) / 2
+(“e to the x minus e to the negative x, all divided by 2”). The Taylor
+series expansion of this function consists of terms in which a
+variable raised to an odd power is divided by the factorial of that
+power. The equation stating that a triangle side’s length divided by
+this function of its opposite angle is equal for all combinations of
+angles and sides is known as the “law of” this function. This
+trigonometric function is the reciprocal of the cosecant. Name this
+function that, for a given angle in a right triangle, is equal to
+“opposite over hypotenuse.”
+*** Answer
+sine of x
+** World History: Name these English or British monarchs.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       5b140ca3-e26c-42c9-b93b-c58e3330bffe
+     :END:
+This youngest son of Eleanor of Aquitaine is best remembered for
+meeting at Runnymede to sign the Magna Carta in 1215.
+*** Answer
+King John of England [accept John Plantagenet or John Lackland] 
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       fea4f05f-473b-4623-bed5-d38f1f4cd783
+     :END:
+The Acts of Union, which combined England and Scotland into the
+Kingdom of Great Britain, took effect in 1707 during the reign of this
+woman, who was the last monarch of the House of Stuart.
+*** Answer
+Queen Anne of Great Britain
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       949ff05c-5b10-435b-800e-f8add9bf07b7
+     :END:
+This monarch was recognized as ruler by the Treaty of Abernethy two
+years after waging a war known as the Harrying of the North. This
+monarch’s greatest military victory occurred at Senlac Hill, and
+shortly thereafter he established the Tower of London. A property
+survey known as the Domesday (“doomsday”) Book was ordered by this
+king, who came to power following a battle that was depicted in the
+Bayeux (“BYE”-“you”) Tapestry and included the death of Harold
+Godwinson. Name this first Norman king who won the 1066 Battle of
+Hastings.
+*** Answer
+William the Conqueror [or William I of England or William the Bastard
+or William II of Normandy; prompt on "William"; do not accept or
+prompt on "William II"]
+** Fine Arts: Name these paintings which feature animals.
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       fe757a03-db6a-4785-b3d8-7cac891baff3
+     :END:
+Ants are seen crawling on an orange timepiece in this Salvador Dali
+painting with three drooping clocks.
+*** Answer
+The Persistence of Memory [or La persistencia de la memoria]
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       8500954f-27df-4585-ae65-67794cfa3625
+     :END:
+A child puts her left foot on top of a sitting dog in this Diego
+Velazquez painting which depicts the artist creating a portrait of
+Spanish King Philip IV (the fourth).
+*** Answer
+Las Meninas (meh-NEE-nahss) [or The Maids of Honor]
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       8a5051ba-0050-4a74-8baa-11a81876a9db
+     :END:
+Shortly after its creation, Gerrit Lundens created a copy of this
+painting, the left side of which shows a boy holding onto a railing
+that has since been cut out of the original. After it was painted, the
+artist added a shield to an archway in the background which lists the
+names of eighteen people in this work. In this painting, a
+well-dressed man in red loads a musket while standing in front of a
+girl who holds a dead chicken. A yellow and blue flag is being waved
+behind the primary figures, Willem van Ruytenburch and Frans Banning
+(*) Cocq. Name this Rembrandt painting of a Dutch militia that is
+actually set during the day.
+*** Answer
+The Night Watch [or De Nachtwacht; before (*) accept The Shooting
+Company of Captain Frans Banning Cocq and Lieutenant Willem van
+Ruytenburch or The Militia of Captain Frans Banning Cocq and
+Lieutenant Willem van Ruytenburch or De compagnie van kapitein Frans
+Banning Cocq en luitenant Willem van Ruytenburgh maakt zich gereed om
+uit te marcheren; prompt thereafter]
+** Life Science: Name these diseases caused by bacteria.  
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       6faa96e1-0272-4e8d-b19f-435724a523cb
+     :END:
+A scare in 2001 came in the form of mailed letters containing powder
+that would cause this disease. This often- fatal disease is caused by
+a bacterium of the genus Bacillus.
+*** Answer
+anthrax 
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       62ff684a-c882-4d29-9edf-3c868990d1b0
+     :END:
+This disease, caused by species of the genus Borrelia, is carried by a
+tick and named after a town in Connecticut.
+*** Answer
+Lyme disease
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       0df3767b-5d14-45db-86d0-3455c71dc4f2
+     :END:
+In 2013, a new form of this disease was discovered and named type
+H. In this disease, a toxin splits into its heavy and light chains,
+allowing it to degrade SNARES and prevent vesicle fusion, which stops
+neurotransmitter release. This disease is usually contracted when
+spores of the causative bacteria are ingested or directly enter the
+bloodstream, and it is classified into foodborne, infant, and wound
+types. This disease causes muscle weakness that can escalate to
+paralysis and respiratory failure. It is caused by a species of genus
+Clostridium. Name this disease that is caused by the same toxin used
+in botox (BOH-tox).
+*** Answer
+botulism (BOTCH-uh-lizm)
+
+* Round One
+** American Literature: Name the following authors who wrote coming of age novels.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       3bd56173-f994-4880-af58-2016e583d32c
+     :END:
+The classic American coming of age novel is what author’s The Catcher
+in the Rye?
+*** ANSWER:
+Jerome David Salinger
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       3d6b6cbb-ebe9-403f-9b78-9cd6f366717a
+     :END:
+What African-American author of Native Son wrote about his years of
+development in the autobiographical novel Black Boy?
+*** ANSWER:
+Richard Nathaniel Wright
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       fda05ee9-c454-4488-92a3-5dec1b81df50
+     :END:
+This author’s first novel is a coming of age novel that ends with
+Monsignor (mohn-SEEN-yor) Darcy dying and Rosalind Connage breaking up
+with Amory Blaine. Another novel by this author, which fictionalizes
+his relationship with Zelda Sayre, describes the dissolving marriage
+of actress Nicole Warren and psychologist Dick Diver. This author of
+This Side of Paradise and Tender is the Night wrote another novel
+whose characters include the golf cheat Jordan Baker, as well as the
+adulterers Myrtle Wilson and Tom Buchanan. Name this author of the
+Jazz Age who is best known for The Great Gatsby.
+*** ANSWER:
+Francis Scott Key Fitzgerald
+** Mathematics: Pencil and paper ready. You will have 30 seconds for each team question.
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       af0932a9-f61d-4ecc-8b87-775c5b5873c0
+     :END:
+Solve for x and y in the following equations: 6x + 2y = 26 (“six x
+plus two y equals twenty-six”) and 4x + 3y = 19 (“four x plus three y
+equals nineteen”).
+*** ANSWER:
+x = 4 and y = 1 [accept in either order; prompt on answers that do not
+specify “x” or “y”]
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       6f19a3b1-bb43-4d00-8553-24b7b6150671
+     :END:
+Solve for x and y in the following equations: 4x + 12y = 36 (“four x
+plus twelve y equals thirty-six”) and x + y = 5 (“x plus y equals
+five”).
+*** ANSWER:
+x =3 and y = 2 [accept in either order; prompt on answers that do not
+specify “x” or “y”]
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       8cfdb98a-3250-4351-bef2-66c6c660c20f
+     :END:
+Pencil and paper will not be necessary. This is the shape of the
+matrix that is generated when using Gaussian elimination to solve
+systems of linear equations. One of these shapes is inscribed into a
+circle by Thales’ (THAY-leez-iz) theorem. The area of one of these
+shapes can be determined by halving the magnitude of the cross product
+of two vectors.  The inequality named for these objects is proven by
+using the Cauchy-Schwartz (koh-SHEE shwarts) inequality and states
+that one of their sides must be shorter than the other
+two. Equilateral, isosceles, and scalene are the three major
+classifications of what three sided polygons?
+*** ANSWER:
+triangles
+** World History: Name these nations.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       1ba2537d-5bb1-459f-b979-b2d5c082bf08
+     :END:
+Current U.N. Secretary-General Ban Ki-moon hails from this Asian
+nation which is separated from its northern neighbor by a
+demilitarized zone at the 38th parallel.
+*** ANSWER:
+South Korea [or Republic of Korea or ROK or Taehan-min'guk or Han'guk;
+prompt on “Korea”; do not accept “North Korea” or “Democratic People’s
+Republic of Korea”]
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       1eef846d-b449-4648-8d19-7edf3a39e14a
+     :END:
+The 1903 Hay-Banau-Varilla Treaty was signed between the U.S. and this
+Central American nation less than a month after it declared
+independence from its southern neighbor, Colombia.
+*** ANSWER:
+Republic of Panama [or Republica de Panama]
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       45915767-8766-4749-9acf-0c6ced0c13b7
+     :END:
+In this nation, the Muldergate Scandal led to the resignation of Prime
+Minister B.J. Vorster. Prior to independence, one coalition in this
+nation advocated for equality with the Freedom Charter. Notable
+activists within this nation included Steve Biko and a man whose
+conviction at the Rivonia Trial led to his imprisonment on Robben
+Island.  Formed out of the union of four British colonies, including
+Natal and Transvaal, this nation was the home of both Desmond Tutu and
+F.W. de Klerk, each of whom were given Nobel Peace Prizes for their
+fight against apartheid. Name this African nation once ruled by Nelson
+Mandela.
+*** ANSWER:
+Republic of South Africa [prompt on “RSA”]
+** Fine Arts: Name these nicknamed symphonies.
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       eeac3974-8e06-4722-a740-061aff61a989
+     :END:
+This symphony by Joseph Haydn (“HIGH”-din) earned its nickname from a
+sudden fortissimo chord that is placed in its Andante second movement,
+which may have been intended to wake people up.
+*** ANSWER:
+Symphony No. 94 in G major, “Surprise” [accept either underlined
+portion; accept mit den Paukenschlag]
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       fc762165-4e12-4b7b-90d8-d30932fa16bb
+     :END:
+This symphony, the eighth by Schubert, contains only two completed
+movements.
+*** ANSWER:
+Unfinished Symphony [or Unvollendete]
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       87e47d52-4096-4a3b-a650-3990a1f5a6b8
+     :END:
+In writing this symphony, the composer originally intended to have the
+audience guess the programme to it, leading him to call it “A
+Programme Symphony” before it was performed. In the middle of its
+first movement, the bassoon ends a phrase on a dynamic marking of
+pppppp (“P” “P” “P” “P” “P” “P”). This symphony’s second movement,
+written in 5/4 (“five” “four”) time, has been called a “limping
+waltz.” Due to its nickname and the slow ending to this symphony, this
+piece is sometimes referred to as the composer’s “suicide note,” as
+nine days after it premiered, the composer died of cholera. Name the
+last symphony composed by Peter Tchaikovsky (chy-KOFF-skee).
+*** ANSWER:
+Symphony No. 6 in B minor, “Pathetique” (paa-theh-TEEK) [accept either
+underlined portion]
+** Life Science: Name these animal phyla.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       c1eccf65-6fc6-4c75-b3a4-ab7cfe407d4f
+     :END:
+This phylum consists of flatworms; notable members include tapeworms,
+planarians, and turbellaria.
+*** ANSWER:
+Platyhelminthes (pla-tee-hel-MIN-theez)
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       e25a03fe-af5b-47bc-83a2-16e86633a581
+     :END:
+Sea cucumbers and sea urchins are part of this phylum, which have a
+water vascular system and radial symmetry.
+*** ANSWER:
+Echinodermata (ih-KYE-no-der-MAH-tuh) or echinoderms
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       ae1c4843-8052-4914-b6a1-331ffda64ad5
+     :END:
+A group of organisms within this phylum undergo retrogressive
+metamorphosis when shifting from a larval form to a mature form, thus
+becoming sessile. Some organisms in this phylum have a mucus-producing
+organ called the endostyle. Sea squirts and lancelets belong to this
+phylum. One of this phylum’s characteristic aspects is the formation
+of pharyngeal (fuh-RIN-gee-uhl) slits. Along with Echinodermata, this
+phylum’s members develop the anus before the mouth during
+gastrulation, and are thus classified as Deuterostomes. All members of
+this phylum possess a notochord, which, in its more advanced
+organisms, develops into a spine. Name this phylum which contains all
+vertebrates.
+*** ANSWER:
+Chordata or chordates
+
+* Round One
+** American Literature: Name these Pulitzer Prize-winning authors.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       e0c061b3-98d8-46f0-becb-2a51a69c1525
+     :END:
+The only writer to have won both the Pulitzer Prize for Poetry and the
+Novel is what author of All the King’s Men?
+*** ANSWER:
+Robert Penn Warren
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       50e3ff23-7011-4767-b2a4-d0eeee9d8334
+     :END:
+What poet of “Miniver Cheevy” won three Pulitzer Prizes for Poetry,
+one of which was for his Arthurian poem Tristram.
+*** ANSWER:
+Edwin Arlington Robinson
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       6bf9ff84-5a0f-49c3-ab14-cfec21c0283d
+     :END:
+This Pulitzer Prize winner’s only novella is set in a place called the
+Mecca and describes Maud Martha’s experiences in Chicago. This author
+wrote a poetic sequence that describes Chicago in A Street in
+Bronzeville before becoming Poet Laureate of Illinois. One of her
+poems describes “this old yellow pair” for whom “dinner is a casual
+affair.” In addition to penning “The Bean Eaters,” this author created
+a poem which describes “seven at the golden shovel” that “lurk late,”
+“sing sin,” “jazz june” and “die soon.” Name this African-American
+author who wrote “We Real Cool.”
+*** ANSWER:
+Gwendolyn Elizabeth Brooks
+** Mathematics: Pencil and paper ready. Give the following related to matrices (MAY-trih-seez). You will have 30 seconds for each team question.
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       175f9792-d2c3-4137-9560-573fbf96ff0a
+     :END:
+What is the determinant of a two by two matrix whose first row
+consists of “1, 3” (“one comma three”) and whose second row is “6, 6”
+(“six comma six”)?
+*** ANSWER:
+-12 or negative twelve or minus twelve
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       88845292-a490-4338-9ab7-2f806e30ba9a
+     :END:
+What is the determinant of a two by two matrix whose first row
+consists of “4, 2” (“four comma two”) and whose second row is “5, 6”
+(“five comma six”)?
+*** ANSWER:
+14 or fourteen
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       05fff6ab-ae9d-4dea-8f09-80b02bcf8c9b
+     :END:
+Pencil and paper will not be necessary. Jacobi’s theorem states that
+for odd square matrices with the “skew” type of this property, its
+determinant is equal to zero. Generally speaking, these matrices equal
+their own transpose. In set theory, a relation has this property if
+for every element “B” and element “A”, if “A” relates to “B” then it
+must be the case that “B” relates to “A”. An equivalence relation
+requires this property along with transitivity (trans-ih-TIV-ih-tee)
+and reflexivity. What is this mathematical property that in geometry
+refers to the ability to fold a shape onto itself?
+*** ANSWER:
+symmetry [accept word forms, such as symmetric]
+** World History: Name these European conflicts.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       1ce49271-bc59-46f8-9407-cbc76ea72071
+     :END:
+The release of the Ems Dispatch by Otto von Bismarck helped lead to
+this 1870 to 1871 war which ended shortly after the capture of Emperor
+Napoleon III (the third) at the Battle of Sedan.
+*** ANSWER:
+Franco-Prussian War [accept Franco-German War]
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       0b872cfc-2751-4c71-a9a6-5ce2601a91ce
+     :END:
+Giuseppe Garibaldi (joo-ZEP-pee gar-uh-BAWL-dee) led troops in all
+three of this 19th century series of wars which culminated in the
+unification of a certain nation under the rule of Victor Emmanuel II
+(the second).
+*** ANSWER:
+Wars of Italian Independence [accept Wars for the Independence of Italy or other equivalents; prompt on partial answers]
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       cc991453-33b6-4313-8020-236f6bb7897a
+     :END:
+A manuscript known as the Codex Gigas was plundered at the end of this
+conflict, during which two participants cemented their alliance with
+the Treaty of Barwalde. Ferdinand II’s (the second’s) succession of
+Matthias as Holy Roman Emperor intensified a part of this conflict
+that ended after the Battle of White Mountain. During its Battle of
+Breitenfeld, the Count of Tilly was defeated by a Swedish leader who
+was later killed at the Battle of Lutzen, Gustavus Adolphus.  This
+war, which began after the Defenestration of Prague, was ended by the
+Peace of Westphalia in 1648. Name this 17th century religious war
+which lasted three decades.
+*** ANSWER:
+Thirty Years’ War
+** Fine Arts: Name these Russian composers.
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       8be32673-965b-4fca-9888-3a9f76596668
+     :END:
+This composer's String Quartet No. 2 features a famous nocturne. He
+also composed In the Steppes of Central Asia and the Polovtsian
+Dances.
+*** ANSWER:
+Alexander Porfiryevich Borodin (bor-uh-DEEN)
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       9bd514b2-09f0-4b06-85bd-c24da5ed36f8
+     :END:
+This man used a recurring motif played by the violin to represent the
+title storyteller in Scheherazade (shuh- “HAIR”-uh-zahd). Among the
+work he did on other composers’ music was an orchestration of
+Mussorgsky’s Night on Bald Mountain.
+*** ANSWER:
+Nikolai Andreyevich Rimsky-Korsakov (RIM-skee-KOR-suh-koff) [prompt on partial answer]
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       4ba1a615-047c-4ff8-a54c-8fe88b6fbefd
+     :END:
+A tone poem by this composer uses a rhythm in 5/8 (“five” “eight”)
+time to depict rowing and was inspired by an Arnold Bocklin (BEK-lin)
+painting of the same name. A solo piano work by this composer opens
+with the notes A, G sharp, C sharp. He went through a depression that
+only ended after hypnotherapy and the success of a concerto that opens
+with eight crescendoing (cruh-SHEN-doh-ing) chords. This composer of
+Isle of the Dead inverted the theme for the eighteenth variation in a
+piece based off the twenty-fourth caprice of an Italian violin
+virtuoso. Name this composer, whose output includes four piano
+concertos, “Prelude in C sharp minor,” and Rhapsody on a Theme of
+Paganini.
+*** ANSWER:
+Sergei Vasilyevich Rachmaninoff (rock-MAHN-ih-nahff)
+** Life Science: Answer the following about viruses.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       256fdce3-108a-4d7a-9256-40af00db424a
+     :END:
+This outer layer of a virus surrounds its genetic material. It is made
+up of proteins, sometimes arranged in shapes such as icosahedrons or
+cylinders.
+*** ANSWER:
+capsid
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       aed750e0-f0e1-4c62-9630-50d654701134
+     :END:
+Viruses that infect bacteria are specifically known by this term.
+*** ANSWER:
+bacteriophages
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       03fbb495-4af3-4738-b22c-5b3b514f3d78
+     :END:
+This virus attaches to host cells using the surface glyco·protein
+gp120. Genes essential to this virus’s function and replication are
+tat and rev. People resistant to this virus are known as long term
+non·progressors, since they fail to show the most severe symptoms it
+causes. Drugs used to combat this virus include Combivir, which
+includes the molecule AzT.  This virus’s pol gene encodes for an
+integrase and reverse transcriptase. This lenti·virus causes low
+levels of helper T cells, which in turn severely weakens the body’s
+immune response. Name this retrovirus that is the causative agent of
+AIDS.
+*** ANSWER:
+HIV or human immunodeficiency virus [do not accept or prompt on “AIDS”]
+
+* Round One
+** American Literature: Name these authors who wrote about teachers.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       6842c6b3-b34c-4c6d-b73c-630f86836b5f
+     :END:
+What author of The Little Foxes wrote about two teachers named Karen
+Wright and Martha Dobie, who are accused of lesbianism, in her play
+The Children’s Hour?
+*** ANSWER:
+Lillian Florence “Lilly” Hellman
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       f7ee169d-534f-4c7e-8584-6f589968b297
+     :END:
+What author of O Pioneers! wrote about a teacher named Godfrey
+St. Peter moving into a new home in The Professor’s House?
+*** ANSWER:
+Willa Sibert Cather
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       0af37d76-5fc8-46f9-bcba-a0078596ccd3
+     :END:
+This author wrote about a Professor at Waindell College who is
+interested in lepidoptery (leh-pih-DOP-tuh-ree) in his novel Pnin
+(PEE-nin). During his time in America, this author was a professor at
+Cornell College, where he apparently taught an English class to Thomas
+Pynchon. One of his books ends with the execution of Cincinnatus
+(SINN- sih-natt-us) C., who is jailed for the crime of gnostic
+(NAW-stik) turpitude. This author of Invitation to a Beheading created
+the fictional author of Clare Quilty in a novel in which Dolores Haze
+is the subject of fantasies by Humbert Humbert. Name this
+Russo-American author who penned Lolita.
+*** ANSWER:
+Vladimir Vladimirovich Nabokov
+** Mathematics: Pencil and paper ready. Give the following related to polynomials. You will have 45 seconds for each team question.
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       0c9c10a6-dd2a-4f1b-9b8d-4152cd7b941f
+     :END:
+Find all three zeros of the following polynomial: 2x3
+ + 10x2
+ - 28x (“two x cubed, plus ten x squared, minus
+twenty-eight x”).
+*** ANSWER:
+x = 0, 2, -7 [accept in any order; do not prompt on partial answers]
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       78de1212-933d-48bb-a612-e09f965dfeb4
+     :END:
+Find all three zeros of the following polynomial: 5x3
+ - 15x2
+ - 90x” (“five x cubed, plus fifteen x squared, minus
+ninety x”).
+*** ANSWER:
+x = 0, 6, -3 [accept in any order; do not prompt on partial answers]
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       5c937fdf-271f-49d3-b498-97859c895cc2
+     :END:
+Pencil and paper will not be necessary. The factorization of
+polynomials is often done via Berlekamp’s (BUR- luh-camps) algorithm,
+which factors polynomials over fields with this property. Automata
+(uh-TOM-uh-tuh) theory often studies nondeterministic and
+deterministic machines that have a set of states with this
+property. Formally, a set has this property if there doesn’t exist a
+subset of that set with the same cardinality. This property is not
+possessed by the set of all primes, but it is possessed by the set of
+all even primes. Name this property of being able to be completely
+enumerated, whose opposite is represented with the lemniscate
+(LEM-nis-kayt).
+*** ANSWER:
+finite [accept word forms such as finitude]
+** World History: Name these 20th century European leaders.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       202a7a68-d6da-45b5-bbb1-b6e7f8449757
+     :END:
+This British leader noted that “I have nothing to offer but blood,
+toil, tears, and sweat” shortly after become Prime Minister in 1940 as
+the successor to Neville Chamberlain.
+*** ANSWER:
+Winston Leonard Spencer Churchill
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       d67dffc7-4b0a-49ae-b218-42ebf8adddf1
+     :END:
+Konstantin Chernenko was the predecessor of this final leader of the
+Soviet Union, who instituted the liberal policies of glasnost and
+perestroika prior to the nation’s dissolution in 1991.
+*** ANSWER:
+Mikhail Sergeyevich Gorbachev (GOR-buh-choff)
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       e25f078c-7117-4938-90af-d3e062299680
+     :END:
+The “last days” of this leader’s tenure was the subject of a book by
+Hugh Trevor-Roper. The Hossbach Memorandum outlined the foreign
+policies of this ruler, who approved a mass deportation policy known
+as the Madagascar Plan. This ruler’s political opponents were
+assassinated during Operation Hummingbird, also known as the Night of
+Long Knives. Before rising to power, he was jailed for a failed coup
+known as the Beer Hall Putsch; while in jail, he authored his
+autobiography, Mein Kampf (“mine” kahmpf). The 1934 death of Paul von
+Hindenburg led to a consolidation of power for what genocidal
+(jen-uh-SIDE-uhl) leader of Nazi Germany during World War II?
+*** ANSWER:
+Adolf Hitler
+** Fine Arts: Name these art movements.
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       a2775a8c-266f-42a5-92ef-8f2517ff776b
+     :END:
+An 1872 painting of a sunrise over the Le Havre (luh hahv) harbor
+provided inspiration for the name for this art movement whose
+practitioners included Mary Cassatt and Edgar Degas.
+*** ANSWER:
+Impressionism [accept Impressionist and other word forms; do not
+accept “Post-Impressionism” or other word forms]
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       16d5fb83-0ec7-43fd-9473-9a48a07feda9
+     :END:
+This early 20th century abstract art movement was co-founded by
+Georges Braque (zhorzh brahk) and a Spanish painter who had Blue and
+Rose Periods.
+*** ANSWER:
+Cubism [accept Cubists and other word forms]
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       97141d62-65cb-4cca-a920-61a0cfe9a983
+     :END:
+One painting from this movement shows a buxom, red-headed woman
+smoking next to a red drink that sits on a counter; that work is At
+the Bar by Maurice de Vlaminck (vlah-MINK). The name of this movement
+was derived from a comment made by art critic Louis Vauxcelles (LOO-ee
+voh-“SELL”). One practitioner of this movement created a portrait of
+his wife titled The Green Stripe; another practitioner was Andre
+Derain (AHN-dray duh-“RAN”). The best known artist of this movement
+created a painting with a blue and green backdrop that shows five nude
+women holding hands in a circle while frolicking; that painting is
+titled The Dance. With a name that is French for “wild beasts,” name
+this early 20th century art movement practiced by Henri Matisse
+(muh-TEESE).
+*** ANSWER:
+Fauvism (FOH-vizm) or Fauvists (FOH-vists) or les Fauves (fohvz)
+** Life Science: Answer the following about the mitochondria.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       06128a03-1874-45f2-9479-190290b18900
+     :END:
+The inner folds of a mitochondrion’s inner membrane are given this
+name.
+*** ANSWER:
+cristae
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       73fb224f-ef18-4502-b5ba-77e01e645249
+     :END:
+This system, the last portion of cellular respiration, takes place in
+the mitochondria and creates a proton gradient to generate ATP.
+*** ANSWER:
+ETC or electron transport chain [prompt on partial answers]
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       3d535b0b-0823-4222-b278-85bacd2ee451
+     :END:
+A mitochondrial protein involved in this cellular process normally
+transfers electrons from coenzyme Q to complex IV (four) of the
+electron transport chain. During this process, phosphatidyl
+(FOSS-fa-tuh-dil) serine is expressed on the plasma membrane. This
+process can be induced by TNF or by the Fas ligand. Cisplatin can
+cause this process to occur since it suppresses DNA repair
+mechanisms. Cyto∙chrome c is released from the mitochondria during
+this process, after which it activates caspases. This process is
+intentional, unlike necrosis. Name this process of programmed cell
+death.
+*** ANSWER:
+apoptosis
+
+* Round One
+** American Literature: Name these American authors who wrote about butterflies.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       b86542a2-3b7d-495d-8008-7d37b4677f01
+     :END:
+What author of “Dr. Heidegger’s Experiment” wrote about Owen Warland’s
+creation of a mechanical butterfly in “The Artist of the Beautiful”?
+*** ANSWER:
+Nathaniel Hawthorne [accept Nathaniel Hathorne]
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       c8c77935-cc32-4f17-bffa-5a68a742e071
+     :END:
+The young Jay Follett appreciates the nature of death as he sees a
+butterfly in what author’s novella A Death in the Family?
+*** ANSWER:
+James Rufus Agee
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       1b6f6cd0-1f30-4db5-a1f1-b4075f40b6fd
+     :END:
+This author wrote about a character who sees a raindrop fall on a
+butterfly in “Two Minute Seduction.” This author wrote about the
+fashion model Jadine and her love interest Son, who begin a
+relationship, in her novel Tar Baby.  She wrote about Pecola Breedlove
+in a book named for a body part that Pecola desires. Margaret Garner
+inspired another of this author’s novels, which opens “124 was
+spiteful.” In that book by this author, Sethe (seth-uh) murders her
+own daughter so that she does not go back into slavery. Name this
+African-American female author who wrote The Bluest Eye and Beloved.
+*** ANSWER:
+Toni Morrison [or Chloe Ardelia Wofford]
+** Mathematics: Answer some questions about prime numbers.
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       eb2e333c-8877-4fda-abee-4905310a0036
+     :END:
+What French scientist gives his name to numbers of the form 2^2^n + 1
+(“two to the two to the n, plus one”), which he wrongly conjectured
+were all primes? Prime numbers also figure into his namesake “little
+theorem.”
+*** ANSWER:
+Pierre de Fermat [accept Fermat number]
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       3119cf0a-22ea-4c14-a8ae-b4fcc2521c98
+     :END:
+What French mathematician gives his name to primes of the form “2^n –
+1” (“two to the n, minus one”)?
+*** ANSWER:
+Marin Mersenne [or Marin Mersennus; accept Mersenne primes]
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       ce9ce3d6-69a5-4cd8-9b2d-7871f093081e
+     :END:
+A one-to-one correspondence exists between the Mersenne (MER-senn)
+primes and these numbers, all of which are hexagonal and triangular
+numbers. The Euclid-Euler (“YOU”-clid OY-lur) theorem governs the
+existence of these numbers, which are not deficient and not abundant,
+and which have aliquot (AL-ih-kwott) sums equal to themselves. All
+known examples of these numbers are even; it has not been established
+whether odd ones exist. Eight thousand one hundred twenty-eight, four
+hundred ninety-six, and twenty-eight are examples of these numbers,
+whose smallest member is six. Name these numbers that equal the sum of
+all of their proper divisors.
+*** ANSWER:
+perfect numbers
+** World History: Name these former African leaders.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       ed0a525d-059c-4c24-a297-4cc90597d2bc
+     :END:
+This 14th century ruler of the Mali Empire devalued gold in North
+Africa and the Middle East for around a decade because of the large
+amounts of gold that he distributed during a 1324 hajj.
+*** ANSWER:
+Mansa Musa [accept Musa I (the first)]
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       203b5b0a-1a17-4fde-93a4-8f1b84495264
+     :END:
+Assassinated and succeeded by his brother Dingane (din-GAH-nay) in
+1828, this man is the founder and best known leader of the Zulu
+Kingdom.
+*** ANSWER:
+Shaka Zulu [or Chaka Zulu or Shaka kaSenzangakhona]
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       0ce3b84c-4c68-4bed-9051-95a8c8b1c2f8
+     :END:
+This leader bestowed the title of “First Arab Citizen” upon Shukri
+al-Quwatli after their two polities were merged. This man was the
+target of a planned coup by his former chief military commander, Abdel
+Hakim Amer. He was one of the leaders of the July 23rd Revolution
+along with Muhammad Naguib (nah-GEEB), whom he succeeded as ruler four
+years later. This founder and lone leader of the United Arab Republic
+briefly resigned after being defeated by Israel in the Six-Day War. He
+oversaw construction of the Aswan High Dam and sparked the Suez Crisis
+by nationalizing the Suez Canal after coming to power in 1956. Name
+this Egyptian President who ruled until 1970, when he was succeeded by
+Anwar Sadat.
+*** ANSWER:
+Gamal Abdel Nasser (NAH-sir)
+** Fine Arts: Name these composers, all of whom wrote tone poems.
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       e6ec4db0-d1c2-4f2e-b268-9e5db318b494
+     :END:
+This composer drew on mythology of his home country for pieces such as
+“The Swan of Tuonela” and also composed the nationalistic piece
+Finlandia.
+*** ANSWER:
+Jean Sibelius (zhahn sih-BAY-lee-us) [or Johan Julius Christian Sibelius]
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       74702dd9-bb28-43cb-be12-6b899a8198f5
+     :END:
+“The Moldau” (“MOLE”-dow) is one of six tone poems in this composer’s
+cycle Ma Vlast, which depicts his homeland of Bohemia in the
+modern-day Czech (“CHECK”) Republic.
+*** ANSWER:
+Bedrich Smetana (BED-rik SMEH-tah-nah)
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       5cee161e-4286-4132-892a-18e9865ad929
+     :END:
+In a tone poem by this composer, the end of night is signaled by an E
+flat, B flat, B flat, E flat, G, from the oboe.  In that piece, this
+composer has the solo violinist tune the E string down to an E flat to
+create a triton with the A string. In another piece, he depicts two
+pianists practicing their scales. This composer used the xylophone to
+depict dancing skeletons in a tone poem in which Death summons the
+dead, as well as in the “Fossils” movement of a different piece.  This
+composer used a cello with piano accompaniment to depict a swan. Name
+the French composer of Danse Macabre (dawnss muh-KAHB-ruh) and
+Carnival of the Animals.
+*** ANSWER:
+Charles-Camille Saint-Saens (caa-meel san-sahnss)
+** Life Science: Name these parts of the human body.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       15f6af3f-a081-4c39-aa05-e43b685c986e
+     :END:
+This gland produces calcitonin, and it is affected in Grave’s disease
+and goiter, the latter of which occurs with an iodine deficiency.
+*** ANSWER:
+thyroid gland
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       2581f8b8-a90b-4be8-82d0-1ff04de294b9
+     :END:
+This organ, in which old red blood cells are destroyed, consists of
+red pulp and white pulp.
+*** ANSWER:
+spleen
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       8a58bd9b-b9ff-4e07-8ce8-4187734ba796
+     :END:
+Problems in this organ can be detected if high amounts of
+trans·aminases are found within it. A process that occurs primarily in
+this organ converts two lactate molecules into one glucose molecule,
+then sends the glucose back to muscle cells. The falci·form ligament
+divides this organ into two parts. Macro·phages named Kupffer cells
+are located here. The Cori cycle, gluco·neo·genesis, and the urea
+cycle occur primarily in this organ. This organ converts bilirubin to
+a more water-soluble form. This organ secretes bile, which can be
+stored in the nearby gallbladder. It is damaged by cirrhosis
+(sir-ROH-sis) and hepatitis. Name this largest internal organ of the
+body.
+*** ANSWER:
+liver
+
+* Round One
+** American Literature: Name these Pulitzer Prize-winning authors.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       868fc9e1-8e5e-4137-a950-2d938ba9566f
+     :END:
+What author won the 1976 Pulitzer Prize for his novel about a
+fictional version of Delmore Schwartz entitled Humboldt’s Gift?
+*** ANSWER:
+Saul Bellow [or Solomon Bellows]
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       e1c9ff0f-cb65-414d-a83c-ad82e7451d09
+     :END:
+The novella Pale Horse, Pale Rider and the novel Ship of Fools were
+written by what author who won the 1965 Pulitzer Prize for her
+collected short stories?
+*** ANSWER:
+Katherine Anne Porter [or Callie Russell Porter]
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       db5052cf-d0a1-43db-9b0f-8707242dc154
+     :END:
+This author won the Pulitzer Prize for writing a work that examines
+“corporation land” and “technology land”; that work examines the March
+on the Pentagon. Ramses IX (the ninth) tells tales of time past in
+this author’s novel set in ancient Egypt; that work is Ancient
+Evenings. One of his last novels, which focuses on Dieter (DEE-tur),
+who notes that a demon possessed Adolf Hitler in his youth, is titled
+The Castle in the Forest. This author of Armies of the Night won
+another Pulitzer Prize for his nonfiction novel about Gary
+Gilmore. Name this author who wrote The Executioner’s Song.
+*** ANSWER:
+Norman Kingsley Mailer
+** Mathematics: Answer some questions about mathematical proofs.
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       b856d1df-df44-498d-8066-26a9f744a2c4
+     :END:
+At the end of some mathematical proofs, you may find these three
+letters, representing a Latin abbreviation, which indicates that the
+proof is over.
+*** ANSWER:
+Q.E.D. [accept quod erat demonstrandum]
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       ee8da46e-3415-4141-9f78-6b727063447b
+     :END:
+In this proof technique, you assume that the opposite of what you are
+trying to prove is true, then show that an absurd result occurs; thus
+your original statement must be true.
+*** ANSWER:
+proof by contradiction [accept indirect proof or apagogical argument or reductio ad impossibilem]
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       a28fec30-5b65-46c3-bde9-dd8ebf3fd875
+     :END:
+This technique is demonstrably valid via the well-ordering
+principle. Often used to verify a summation formula, many
+mathematicians make use of this technique’s strong form, so that all
+statements from “1 to n” are true. This technique starts with proving
+a base case and then assuming that a statement at n is true; all that
+is needed to be done is to show that the correctness of n implies the
+correctness of “n + 1” (“n plus one”). Name this mathematical proof
+technique which shares its name with a type of reasoning that makes
+generalizations from the specific.
+*** ANSWER:
+proof by induction [accept word forms]
+** World History: Name the following related to events that occurred during the 17th century.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       39b1110d-3cd9-4fa5-9211-25b6aea0c747
+     :END:
+Ieyasu’s (ee-ay-AH-sooz) victory at the Battle of Sekigahara paved the
+way for the 1603 establishment of this Japanese shogunate which ruled
+during the Edo period for over two and a half centuries.
+*** ANSWER:
+Tokugawa Shogunate [or Tokugawa Bakufu]
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       a60b4962-0b20-447a-aa26-0871d522309c
+     :END:
+The first Europeans to sight New Zealand did so in 1642 under the
+command of this Dutch explorer who also discovered and named Van
+Diemen’s Land, which was later renamed after him.
+*** ANSWER:
+Abel Janszoon Tasman [do not accept or prompt on “Tasmania”]
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       b535b4ba-a444-4ce5-8414-05ad5a53e97f
+     :END:
+Anne Vaux (VOO) was arrested following this event, which resulted in
+the execution of Edward Oldcorne after he was discovered hiding at
+Hindlip Hall with Henry Garnet. Several men involved in this event
+were killed during a skirmish at the Holbeche House. Some historians
+believe that Francis Tresham was responsible for sending the anonymous
+letter that warned Lord Monteagle of this event. Robert Catesby
+(KAYTS-bee) organized this event, which was effectively ended when a
+search of an undercroft below the House of Lords revealed Guy
+Fawkes. Name this 1605 plot to assassinate King James I (the first) by
+using a certain explosive.
+*** ANSWER:
+Gunpowder Treason Plot
+** Fine Arts: Name these American artists
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       ae8a4f59-30f6-4372-b745-788a5fcb606e
+     :END:
+This artist depicted fellow Hudson River School painter Thomas Cole
+and poet William Cullen Bryant standing on a cliff in the painting
+Kindred Spirits.
+*** ANSWER:
+Asher Brown Durand
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       0239b5f6-e94d-4144-9cd0-3f85e8c16f35
+     :END:
+This early American painter is best known for his painting Declaration
+of Independence, which graces the backside of the two-dollar bill.
+*** ANSWER:
+John Trumbull
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       0ee9053d-80b2-4be8-8357-0b061f3ca6bd
+     :END:
+The first book by art historian Lloyd Goodrich dealt with the Life and
+Work of this artist, who painted the Biglin brothers in several of his
+works. This artist had his wife, Susan, paint himself into the right
+end of a work that shows Dr.  David Agnew holding a scalpel. This
+artist and five other young men are shown enjoying Dove Lake while
+naked in the painting The Swimming Hole. The Schuylkill (SKOOL-“kill”)
+River was the setting of another of his paintings which shows a single
+scull being used by Max Schmitt. In his best known work, a woman
+cringes as a crowd witnesses a surgery being performed by the title
+doctor. Name this artist of The Gross Clinic.
+*** ANSWER:
+Thomas Cowperthwait Eakins (AY-kinz)
+** Life Science: Name these structures found within a typical cell.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       95d44a5a-2b15-4141-98bc-de7a3a50f17a
+     :END:
+This portion of the cyto·skeleton is organized by MTOCs. Dynein
+(“DIE”-neen) and kinesin move across them.
+*** ANSWER:
+microtubules
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       4e1aebc9-e0aa-41d7-8373-15750f171d38
+     :END:
+This part within the nucleus is the location where ribosomes are
+synthesized.
+*** ANSWER:
+nucleolus
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       4be2a805-ab85-43a8-a376-a2c3b5edb16b
+     :END:
+L-form bacteria are artificially created to lack this structure, while
+mycoplasmas are bacteria that naturally do not have it. Vanco·mycin is
+a glyco·peptide antibiotic that inhibits its synthesis. In some
+organisms, the outermost portion of it is called the middle
+lamella. This structure can be bypassed using plasmodesmata and
+sometimes contains a waxy portion called the Casparian strip. In
+diatoms, this structure is called a frustule (FRUST-yule) and is
+comprised of silica. The lignin is found in this structure in
+plants. Name this protective layer of the cell, which is made of
+pep·tido·glycan in bacteria and cellulose in plants.
+*** ANSWER:
+cell walls [prompt on “walls”]
+
+* Round One
+** American Literature: Name these authors who wrote works of nonfiction.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       c89c70e9-7bd0-4fa9-baba-2edbaf005064
+     :END:
+What author of the novel A Bell for Adano wrote about six atomic bomb
+survivors in his book-length work Hiroshima?
+*** ANSWER:
+John Richard Hersey
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       5ac5e6c3-a0a7-470e-9b42-ab876d40eae5
+     :END:
+What author of the novel Rabbit, Run chronicled Ted Williams’ final
+home run in his essay “Hub Fans Bid Kid Adieu”?
+*** ANSWER:
+John Hoyer Updike
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       bedf9fa9-d02d-4061-910d-73d022ac2b6b
+     :END:
+This author wrote the statement “Nobody can add to the absurdity of
+this book” in regards to the hilariously- translated phrase book
+English As She is Spoke. Another of his nonfiction works is an essay
+attacking the rules of literary art that The Deerslayer violated. This
+author of “Fenimore Cooper’s Literary Offenses” wrote about a town
+that tries to resist temptation in “The Man that Corrupted
+Hadleyburg.” In another of his stories, Jim Smiley captures the title
+animal, names it Dan’l (“daniel”) Webster, and teaches it to
+jump. Name this humorist who wrote “The Celebrated Jumping Frog of
+Calaveras County.”
+*** ANSWER:
+Mark Twain [or Samuel Langhorne Clemens]
+** Mathematics: Pencil and paper ready. Give the following related to permutations. You will have 30 seconds for
+each team question.
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       028a64d1-49af-4fba-8387-52ecf4ab6260
+     :END:
+Six friends compete in an apple-picking competition at the local
+hootenanny and a gold, silver, and bronze medal are awarded to first,
+second, and third places, respectively. How many possible ways can the
+three medals be distributed?
+*** ANSWER:
+120
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       2199c239-22e1-46d7-9c86-84f1943d3850
+     :END:
+A panda bear has five different foraging spots. If he goes to a
+different one for morning, noon, twilight, and dusk, how many daily
+unique permutations does he have?
+*** ANSWER:
+120
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       04c5de17-76e0-4f46-aecd-dc41eb98a578
+     :END:
+Pencil and paper will not be necessary. A permutation is made from the
+Fischer-Yates algorithm, which requires numbers with this property as
+an input. Variables with this property are functions that map from the
+set of all outcomes to the real numbers. Markov and Weiner processes
+possess this property. Generating numbers with this property is
+actually impossible; thus the “pseudo-” version of this property is
+desired instead. This property is synonymous with stochastic. Name
+this property of certain sequences of numbers which makes them
+unpredictable.
+*** ANSWER:
+random [accept pseudo-random numbers or random variables]
+** World History: Name these leaders of the ancient world.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       d4c3b4cb-0fc3-46a5-a58d-a8d9344e24da
+     :END:
+The 587 BC destruction of Jerusalem was overseen by this Babylonian
+king perhaps best known for constructing the Hanging Gardens of
+Babylon.
+*** ANSWER:
+Nebuchadnezzar II (NEH-buh-kud-NEZ-zur “the second”) [accept
+Nebuchadrezzar II or Nabu-kudurri- usur; prompt on “Nebuchadnezzar” or
+“Nebuchadrezzar”]
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       3a170e6b-5826-4b74-ae6b-a7dd0d621df6
+     :END:
+This 19th Dynasty Egyptian pharaoh, who ruled in the 13th century BC,
+allegedly fathered over 100 children, including several with
+Nefertiti, during his sixty-six year reign.
+*** ANSWER:
+Ramses II [RAM-zeez “the second”] [or Ramesses II or Ramses the Great
+or Ramesses the Great or Ozymandias; prompt on "Ramses" or "Ramesses"]
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       adc497cc-3f96-446a-b2dd-a512fbb9f416
+     :END:
+This leader melted down a large gold statue of Marduk after his
+son-in-law, Megabyzus, successfully sacked Babylon. This son of Atossa
+finished construction of a building known as the Gate of All Nations
+and was murdered by Artabanus (ar-tuh-BAY-nus). This leader cut one of
+his military campaigns short and left control with his general,
+Mardonius, who was shortly thereafter defeated and killed at the
+Battle of Plataea (pluh-TEE-uh). That campaign began with this ruler
+building two pontoon bridges across the Hellespont, and it also saw
+his forces lose at the naval Battle of Salamis. Name this Persian
+ruler who succeeded his father, Darius I (the first), and failed in
+his 5th century BC invasion of Greece.
+*** ANSWER:
+Xerxes I (ZURK-seez “the first”) of Persia [or Xerxes the Great;
+prompt on “Xerxes”]
+** Fine Arts: Name these European artists.
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       986dba01-4afe-4ce9-bbbc-4d30e23aafaf
+     :END:
+Several nude women gather around a body of water in The Bathers, a
+work by this French artist known for his several paintings of Mont
+Sainte-Victoire (mawn sant-veek-TWAR).
+*** ANSWER:
+Paul Cezanne (say-zahn)
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       564b58f5-3e90-48c2-aed7-a614b031422f
+     :END:
+Adele Bloch-Bauer was the subject of two portraits by this Austrian
+painter best known for depicting two figures clad in gold while
+performing the title activity in The Kiss.
+*** ANSWER:
+Gustav Klimt
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       66c1e227-c874-4fde-8dfd-4ee42fa232bd
+     :END:
+This artist depicted a levitating man who contorts his body to kiss a
+woman holding a bouquet in a painting entitled Birthday. In another
+work by this artist, a purple-dressed man carrying scrolls, a group of
+soldiers waving red flags, and a burning synagogue topped by a
+Lithuanian flag are among various scenes that surround the colorful
+title event. A man carrying a scythe and an upside down woman playing
+the violin both appear in his best known painting, which shows a
+green-faced man staring into the eyes of a goat. Name this
+Russian-born Jewish painter of White Crucifixion and I and the
+Village.
+*** ANSWER:
+Marc (Zaharovich) Chagall (shuh-GAHL)
+** Life Science: Answer the following about the eye.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       de3f421e-24ed-4f4c-a79d-12cc2a3171da
+     :END:
+This liquid, found between the cornea and iris, is constantly
+produced. Irregular levels of its production or drainage can lead to
+glaucoma.
+*** ANSWER:
+vitreous (VIT-ree-uss) humor
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       cd19d07e-771c-48ce-ad22-9c2f70f7103f
+     :END:
+This portion of the retina contains the fovea and is its most
+sensitive portion. Vision impairment in older individuals can be
+caused by its degeneration.
+*** ANSWER:
+macula
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       f0edb141-9ac7-4975-830c-4ef52e0b4a0d
+     :END:
+These animals have eyes with light sensors that directly receive
+incoming light instead of reflecting it off the back first, and they
+move their lens instead of changing its shape. It’s not fish, but
+Vibrio fischeri is found within one member of this class. Some members
+of this animal class have a tube running from the center of their body
+to the outside of their shell called a siphuncle. A still-living early
+example of this class of invertebrates is the nautilus. They have the
+most advanced eye out of all invertebrates. When escaping, these
+animals can release a cloud of ink. Name this class of mollusks which
+includes cuttlefish and squid.
+*** ANSWER:
+cephalopods or cephalopoda
+
+* Round One
+** American Literature: Give the following related to 19th century poetry.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       36b4965d-c6bc-4af6-afbd-bb0d6edf936e
+     :END:
+What 19th century author wrote the poetry collection The Black Riders,
+which includes a poem that imagines a bestial creature who eats his
+own heart?
+*** ANSWER:
+Stephen Crane
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       befb6cbb-63f7-498f-9c4f-13435c1a4f7e
+     :END:
+What other 19th century author wrote about a “true daughter of old
+time” in his poem “Sonnet -To Science”?  Other poems by this author
+include “Al Aaraaf” (al uh-rawf) and “Tamerlane”.
+*** ANSWER:
+Edgar Allan Poe
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       5452cdc0-7985-4112-bbde-07d48c1924f9
+     :END:
+This poem describes a “last onset” that occurs “when the king be
+witnessed in the room.” Its speaker describes how “I willed my
+Keepsakes” and “signed away what portion of me be assignable” before
+noting how the title figure “was there interposed.” That figure is
+described as “blue” and “uncertain”, and it occupies a space “between
+the light and me” where the speaker realizes “and then I could not see
+to see.” This poem opens by describing a “stillness in the room”
+between “the heaves of storm.” Name this poem by Emily Dickinson
+titled for the noise a creature makes when the speaker perishes.
+*** ANSWER:
+“I heard a fly buzz - when I died” [accept Poem 465 or Poem 591]
+** Mathematics: Answer the following about conic sections.
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       6da3ff13-a40a-4a3e-8aaa-660f97c943d4
+     :END:
+By definition, a conic section is formed by intersecting a cone with
+what other geometric object?
+*** ANSWER:
+plane [do not accept a “square” or other answers]
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       5db399b9-8d2c-443f-9c11-32a2889fad33
+     :END:
+The conic section defined by x2
+ + y2
+ = 0 (“x squared plus y squared equals zero”) is described by what
+word that also describes a triangle whose points are collinear
+(KOH-lin-ee-ur)?
+*** ANSWER:
+degenerate [accept word forms; accept degenerate triangle]
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       3025719a-d0f4-4a83-9b74-35f245184643
+     :END:
+This conic section gives its name to both quadrics that are
+doubly-ruled surfaces. This is the most eccentric conic section that
+was used by Apollonius [app-uh-LOH-nee-uss] of Perga to trisect an
+angle; Apollonius used one with an eccentricity of two. They are
+defined by a plane that cuts through both halves of a cone. The
+equation f(x) = 1/x (“f of x equals one over x”) is the simplest
+example of this conic section, which has an undefined value at some
+point. Two asymptotes (ASS-im-totes) characterize what conic section
+with an eccentricity greater than a parabola?
+*** ANSWER:
+hyperbolas or hyperbolae
+** World History: Name these medieval European leaders.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       d20c5ff5-3e6e-4fc7-9d81-2a320df4f1d1
+     :END:
+This German King was victorious at the Battle of Lechfeld seven years
+before Pope John XII (the twelfth) crowned him as Holy Roman Emperor
+in 962.
+*** ANSWER:
+Otto I or Otto the Great or Otto der Grosse [prompt on “Otto”]
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       da89ac9e-2467-4ce0-8134-feeaff90c4fa
+     :END:
+In 1002, this Wessex King of England ordered what became known as the
+St. Brice’s Day Massacre, which prompted Danish King Sweyn Forkbeard
+to invade England and briefly exile this man.
+*** ANSWER:
+Ethelred the Unready or Ethelred II [prompt on “Ethelred”]
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       40e50ced-bb6d-4f12-a5f1-b8ec320f994c
+     :END:
+This ruler was the oldest son of a woman nicknamed “Bertha Broadfoot,”
+most likely because she was born with a clubfoot. This leader deposed
+Desiderius while successfully conquering the Kingdom of the
+Lombards. The Life of this man was the subject of a biography by
+Einhard, and his forces were defeated by Basques at the Battle of
+Roncevaux (rawn-suh-VOH) Pass, which was described in The Song of
+Roland. Twenty-nine years after his death, three of this ruler’s
+grandkids divided his kingdom in the 843 Treaty of Verdun. Pepin the
+Short was the father and predecessor of what Frankish King whom Pope
+Leo III (the third) crowned Holy Roman Emperor on Christmas Day of the
+year 800?
+*** ANSWER:
+Charlemagne (SHAHR-luh-“main”) [or Charles the Great or Charles I or
+Carolus Magnus or Karl der Grosse; prompt on “Charles”]
+** Fine Arts: Name these musical instruments.
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       b7ee6a49-c0ad-4841-86f8-8e73d82d41a9
+     :END:
+This instrument plays at its highest register in the opening to The
+Rite of Spring and represents the grandfather in Peter and the Wolf.
+*** ANSWER:
+bassoon
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       d4c4d323-efa4-4ff7-9f9d-048a89a12b15
+     :END:
+Georg Philipp Telemann wrote the first extant concerto for this
+instrument, which plays the solo part in Harold in Italy.
+*** ANSWER:
+viola
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       7a25614b-49f4-41b5-a30d-186dc1e30628
+     :END:
+Along with the timpani, Francis Poulenc (POO-lonk) wrote a
+single-movement concerto for this instrument in G minor. Charles-Marie
+Widor’s (vee-DORZ) fifth symphony for this instrument ends with his
+famous “Toccata.” A performance of John Cage’s ASLSP (“A” “S” “L” “S”
+“P”) on this instrument will end in the year 2640. Because two
+sections of it use this instrument, Camille Saint-Saens’ third
+symphony is nicknamed after it. J.S. Bach supposedly traveled a few
+hundred miles to see Dieterich Buxtehude (BOOKS-tuh-HOO-duh) perform
+on this instrument and later wrote his Toccata and Fugue in D minor
+for it. Name this large instrument often found in churches.
+*** ANSWER:
+pipe organ
+** Life Science: Answer the following regarding lab techniques.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       1be87a33-d283-4dc4-998c-1784a500f4c5
+     :END:
+In this technique, often done in mice, a gene is made unusable in an
+organism. This is done to study the function of the removed gene.
+*** ANSWER:
+gene knockout
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       6fb0ecb6-9dcf-48d4-bbf0-0d15e070d457
+     :END:
+This technique allows one to separate molecules such as DNA by size by
+sending an electrical current through a medium made of agarose or
+poly·acryl·amide.
+*** ANSWER:
+gel electro·phoresis
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       69fac0ae-23a7-4114-abb0-c1d177bea5b7
+     :END:
+Magnesium chloride is an important reagent in this technique since the
+magnesium cat·ion is a cofactor of the central enzyme. A variant of
+this technique is used to check for the presence of specific mRNA, and
+it can be used to detect and quantify certain viruses. This process
+was devised by Kary Mullis. An enzyme essential to this process is
+taken from the bacterium Thermus aquaticus. This technique takes place
+in a thermal cycler, which allows it to repeatedly cycle through
+denaturation, annealing, and elongation steps. Name this technique in
+which a piece of DNA is copied millions of times.
+*** ANSWER:
+polymerase chain reaction or PCR [accept real time PCR or RT-PCR]
+
+* Round One
+** American Literature: Name the following related to literary movements.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       eba6ab4b-8abd-4c81-9840-adfe8e649506
+     :END:
+What literary movement had Jack Kerouac (kair-EW-ack), Lawrence
+Ferlinghetti (“fair”-LIN-get-ee), and Allen Ginsberg as members?
+*** ANSWER:
+the Beat Movement [accept the Beatniks]
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       59ef49c6-f08b-4099-9734-fde6e153d268
+     :END:
+Lawrence Ferlinghetti founded the City Lights Bookstore in what city
+which was home to the Beat movement?  Mark Twain moved to this city in
+the 1860s.
+*** ANSWER:
+San Francisco, California
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       6737929e-f083-442a-a20f-070f2ea57a58
+     :END:
+One member of this movement wrote “Whirl up, sea, whirl your pointed
+pines” in her poem “Oread.” In addition to its member H.D., another
+member of this movement wrote “The apparition of these faces in the
+crowd; petals on a wet black bough” in his extremely short poem “In a
+Station of the Metro.” This modernist movement is associated with an
+author who wrote “So much depends upon the red wheelbarrow glazed with
+rainwater beside the white chickens.” Name this early 20th century
+literary movement, whose members included William Carlos Williams.
+*** ANSWER:
+Imagism [accept word forms]
+** Mathematics: Pencil and paper ready. Name the following related to coordinate systems. You will have 30 seconds for each team question.
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       9904193f-b8be-45b5-afc7-074e00d6ec8e
+     :END:
+What is the value, in polar coordinates, of the rectangular coordinate
+(4,4) (“four comma four”). Please express your “r” coordinate as a
+positive simplified root and your azimuthal (a-zih-MOO-thall)
+coordinate in degrees as a value that is positive and less than 360.
+*** ANSWER:
+r = 4 root 2 and ϕ = 45 [or r = 4 times square root of 2 and ϕ = 45;
+accept in either order]
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       5c48fe92-4297-4bd8-a093-2c98bcee1f40
+     :END:
+What is the value, in polar coordinates, of the rectangular coordinate
+(-10,10) (“negative 10 comma 10”). Please express your “r” coordinate
+as a positive simplified root and your azimuthal [a-zih-MOO-thall]
+coordinate in degrees as a value that is positive and less than 360.
+*** ANSWER:
+r = 10 root 2 and ϕ = 135 [or r = 10 times square root of 2 and ϕ =
+135; accept in either order]
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       d41ac604-1660-494a-a893-8a459fae0066
+     :END:
+Pencil and paper will not be necessary. The “harmonics” of this
+coordinate system are the solutions to Laplace’s (LUH-plass-iz)
+equation where the radial coordinates are given by Bessel (BESS-ull)
+functions. These coordinates are useful when longitudinal symmetry is
+present, such as a system where water flows down a pipe or an infinite
+line of charge. Rho (“row”), phi (fye), and z are the coordinates of
+this system, where z is the height distance.  Name this
+three-dimensional coordinate system which uses two distance
+coordinates and one angular coordinate, and which is an alternative to
+the spherical coordinate system.
+*** ANSWER:
+cylindrical coordinates [accept word forms]
+** World History: Name the following related to the Roman Empire.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       1e647140-4f8a-411b-910b-efdeb1d8c879
+     :END:
+The start of Octavian’s rule in 27 BC triggered the start of this 200
+year period of relative calm within the Empire that is most commonly
+known by a two word Latin phrase.
+*** ANSWER:
+Pax Romana [or Roman Peace or Pax Augusta; prompt on “Pax” or “Peace”]
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       165f0ced-b105-4783-8a18-e4ddb1b9c651
+     :END:
+Toleration of Christianity within the Roman Empire was promulgated by
+Constantine the Great in this AD 313 declaration.
+*** ANSWER:
+Edict of Milan [or Edictum Mediolanense]
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       0d8a43cb-613a-49df-8d6c-6f49dbfc97af
+     :END:
+In one incident this man expelled Dolabella from the Roman Forum when
+the latter occupied it in an attempt to pass debt relief
+legislation. Starting in 40 BC, this man led an unsuccessful war
+against the Parthians; in an earlier conflict, he prompted the suicide
+of Cassius after defeating his troops in the Battle of Philippi. This
+man served in the Second Triumvirate with Lepidus and Augustus, the
+latter of whom became the first Roman Empire after defeating this man
+at the 31 BC Battle of Actium. Name this Roman statesman who gave
+Julius Caesar’s elegy and later had an affair with an Egyptian queen.
+*** ANSWER:
+Mark Antony [or Marcus Antonius or Mark Anthony]
+** Fine Arts: Name these places of historical importance to classical music.
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       4a3365fd-8215-4b77-8443-900d772d3487
+     :END:
+This city’s philharmonic orchestra performs a popular annual New
+Year’s concert. It rose to prominence as a musical center during the
+Classical period, when composers such as Joseph Haydn and Wolfgang
+Amadeus Mozart worked here.
+*** ANSWER:
+Vienna [or Wien]
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       af856ea9-907c-4d72-942b-a595ecbae265
+     :END:
+Nikolai Rimsky-Korsakov was inspired by the music of this country to
+write a “Capriccio” off it. A composer from this country wrote “Ritual
+Fire Dance.”
+*** ANSWER:
+Kingdom of Spain [or Reino de Espana]
+** Tossup:                                                            :drill:
+     :PROPERTIES:
+     :ID:       d3261b28-f62a-422d-b046-4ee6b3436084
+     :END:
+A composer from this country developed a method of teaching music that
+focuses on the use of folk music and singing as a basis. That composer
+used folk melodies of this country in his Dances of Galanta and Hary
+Janos (YA- nohsh) Suite. Another composer from this country developed
+a style of “night music” in several of his pieces and arranged 153
+piano pieces from easy to hard in Mikrokosmos. This birthplace of
+Zoltan Kodaly is also home to a composer who used gypsy melodies in a
+set of rhapsodies named after this country. Name this country, the
+birthplace of Bela Bartok and Franz Liszt (“list”).
+*** ANSWER:
+Kingdom of Hungary [accept Republic of Hungary or Magyarorszag or
+Magyar Kostarsasag]
+** Life Science: Answer the following questions about evolution.
+** Team A:                                                            :drill:
+     :PROPERTIES:
+     :ID:       c8b4886d-f4af-4923-94b8-ffd11a21154e
+     :END:
+Darwin’s finches underwent this process, since they all derive from a
+single ancestor to occupy many niches within the ecosystem.
+*** ANSWER:
+adaptive radiation
+** Team B:                                                            :drill:
+     :PROPERTIES:
+     :ID:       41d8917d-8739-4ea6-8fc0-bcb3871ecc22
+     :END:
+Named after a literary character, this theory states that organisms
+evolve to not only increase their survival but also to do so against
+competitors, prey, predators, hosts, or parasites.
+*** ANSWER:
+Red Queen hypothesis [accept any equivalent answer with Red Queen in
+it]
+** Tossup:                                                          :drill:
+     :PROPERTIES:
+     :ID:       e087ba9f-c246-46fd-9957-066451421b9f
+     :END:
+The Court Jester hypothesis gives a method for this evolutionary
+theory to work, as it describes randomly- occurring abiotic changes in
+the environment that cause changes to occur. This idea emphasizes
+clado·genesis over ana·genesis. This theory accounts for speciation
+events as those that drive change. It built upon Ernst Mayr’s
+observation that there were gaps in the fossil record. This idea
+opposes gradualism, which states that evolution occurs slowly but
+constantly. Niles Eldredge and Stephen Jay Gould put forth what theory
+of evolution characterized by short bursts of change followed by long
+periods of stasis?
+*** ANSWER:
+punctuated equilibrium
+

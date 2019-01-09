@@ -1,0 +1,316 @@
+* 2015 OAC States – Round 2
+* Round One
+American Literature: Name these American authors who created imaginary cities.
+Team A: What author’s collection Tales of the Grotesque and Arabesque included the short story “Shadow”, which
+featured an imaginary city named Ptolemais (TAHL-uh-may-iss) that is haunted by a frightening beast?
+ANSWER: Edgar Allan Poe
+Team B: What American author, who created the characters Tarzan and John Carter, wrote a series of novels about
+fictional cities in Pellucidar (PUH-loo-sih-dar), the name for the occupied interior of the earth?
+ANSWER: Edgar Rice Burroughs
+Tossup: This author created the fictional country of Noland, whose capital is Nole, in a novel in which Bud, Fluff, and
+Queen Zixi (ZIKS-ee) of Ix try to use a magic cloak to grant its user wishes. This author wrote a “sea fantasy” set in the
+land of Queen Aquarine, which is being terrorized by a giant octopus representative of the Standard Oil Company. This
+author of The Sea Fairies wrote a novel that satirizes monetary policy: the silver footwear given to its protagonist
+represents the free silver movement, while the yellow brick road represents the gold standard. Name this American author
+who wrote about a journey undertaken by Dorothy Gale in The Wonderful Wizard of Oz.
+ANSWER: Lyman Frank Baum
+Mathematics: Give the following related to distributions.
+Team B: What measure of central tendency, which is synonymous with expected value, is the first moment of a
+distribution?
+ANSWER: mean
+Team A: The second moment of a distribution is what value, which is defined as the square of the standard deviation?
+ANSWER: variance
+Tossup: This distribution’s mean is undefined if v is greater than 1; its variance is equal to “v / v -2” (“v over v minus 2”)
+if v is greater than 2, infinity if v is between 1 and 2, and undefined if v is less than 1. This distribution was first
+developed by William Gosset (GOSS-it), who used it while examining the chemical properties of barley at the Guinness
+Brewery; Gosset published this distribution in an article under the pseudonym “Student.” When n is less than 30, this
+distribution is typically used in a namesake test instead of the related z-test. Name this distribution that is used to test for
+the null hypothesis.
+ANSWER: Student’s t distribution
+World History: Name these former European monarchs.
+Team A: Upon its 1905 dissolution from Sweden, Norway was ruled by this monarch who reigned for nearly 52 years
+until his 1957 death.
+ANSWER: Haakon VII (HAW-kun “the seventh”) [prompt on “Haakon”]
+Team B: Geza was the father of this King of Hungary who was coronated in the year 1000 or 1001 and ultimately
+canonized as a saint in the Catholic Church.
+ANSWER: Stephen I (the first) [prompt on “Stephen” or “Saint Stephen”]
+Tossup: This ruler used a veto power known as Jus Exclusivae to prevent Cardinal Mariano Rampolla from becoming
+pope, thereby leading to the election of Pope Pius X (the tenth). This leader’s only son was presumed to have murdered
+his seventeen year old mistress before committing suicide in the Mayerling Incident. This father of Crown Prince Rudolf
+endured the death of his younger brother Maximilian, who was executed after his three year rule of Mexico. Two years
+before his own death, this king’s heir-presumptive was killed by Gavrilo Princip in Sarejevo, thereby inciting World War
+1. Name this uncle of Franz Ferdinand who ruled Austria and Hungary for nearly 68 years, from 1848 to 1916?
+ANSWER: Franz Joseph I or Francis Joseph I [prompt on partial answer]
+Fine Arts: Answer the following questions about repeated notes in music.
+Team B: This contemporary minimalist composer, who teamed with the Kronos Quartet on the album Salome Dances for
+Peace, is best known for the composition, In C, in which a piano plays the highest C key throughout the entire piece, with
+the other musicians playing a set of phrases in undefined intervals.
+ANSWER: Terrance Mitchell “Terry” Riley
+Team A: The pianist plays a repeated A flat through this piece, except for a brief section in C sharp minor where the
+repeated note is a B instead. It was composed in 1839 and is the longest of its composer’s twenty-four preludes.
+ANSWER: Raindrop prelude [or Opus 28, Number 15]
+Tossup: In the second movement of a piece by this composer, a B flat octave is played constantly by the pianist to imitate
+a bell that tolls over a scene depicting an executed man. A quote by Henri de Regnier (ren-YAY) is placed at the top of a
+piano piece by this composer that depicts “water games.” He wrote a piece for piano that includes “Le Gibet” (ZHEE-
+bay), which is followed by “Scarbo”, a movement intended to be more difficult than Mily Balakirev’s Islamey. In another
+piece by this composer of Jeux d’eau (zhuh doo) and Gaspard de la Nuit (nwee), two melodies are passed around the
+orchestra on top of an ostinato rhythm from the snare drum. Name this late 19th and early 20th century French composer
+who wrote Bolero.
+ANSWER: Joseph-Maurice Ravel
+Life Science: Name these things found in cells.
+Team A: This organelle, which is found in pairs, contains nine triplets of microtubules and makes up the centrosome,
+which organizes spindles during mitosis.
+ANSWER: centrioles
+Team B: Some bacteria, such as those of genus Bacillus, have this structure, with which they can enter a dormant state if
+nutrients are lacking. These structures are notoriously difficult to eradicate.
+ANSWER: endospores
+Tossup: In a complex involving one type of this organelle, networks of tubules and vesicles called spongiomes empty
+material into it. Antho·cyanins and other flower pigments are found within this organelle. Lysosomes can merge with the
+food type of these organelles to form a structure in which digestion occurs. A variety of this organelle in protists regulates
+turgor pressure by expelling water out of the cell; that variety is called the contractile type of this organelle. In plants, a
+membrane called the tonoplast surrounds this structure. The central type is often the largest body in plant cells. Name
+these organelles which are usually used as the cell’s storage sites.
+ANSWER: vacuoles [accept contractile vacuoles or food vacuoles]
+* Round Two
+English / World Literature: Name the following figures that are featured in William Shakespeare plays.
+Team B: The love god Venus pursues a beautiful, mythical youth with what name in a long poem by William
+Shakespeare?
+ANSWER: Adonis [accept Venus and Adonis]
+Team A: What kind of bird is paired with the turtledove in a poem by William Shakespeare about the virtues of marriage?
+In a 1953 novel, this bird is compared to mankind during a discussion between Granger and Guy Montag.
+ANSWER: phoenix [accept The Phoenix and the Turtle]
+Tossup: A speech about this Shakespeare character notes that the “vilest things become themselves in [this character]” and
+“holy priests bless…when [this character] is riggish.” A George Bernard Shaw play named for this character features a
+scene in which this figure is rolled up into a carpet. In a Shakespeare play, the words “Age cannot wither her, nor custom
+stale her infinite variety” were delivered in a speech about this character given by Enobarbus. In that play, this title
+character commits suicide with an asp. What woman was the subject of a William Shakespeare play written about this
+Egyptian queen and her lover Mark Antony?
+ANSWER: Cleopatra
+American Government / Economics: Name the following related to economic goods.
+Team A: Hot dogs and hamburgers are goods with what relation, which is characterized by a positive cross price elasticity
+of demand?
+ANSWER: substitute goods
+Team B: Hot dogs and hot dog buns are goods with what relation, which is characterized by a negative cross price
+elasticity of demand?
+ANSWER: complementary goods
+Tossup: Arnold Harberger was the first to graphically illustrate this economic quantity for a good. It is smaller for goods
+that have more inelastic supplies and demands. Graphically speaking, this quantity can be illustrated with a shape whose
+vertices are defined by the equilibrium point, the new willingness to pay, and the new willingness to supply; thus, this
+quantity is illustrated as a triangle in supply and demand charts. Name this micro-economic quantity which represents the
+amount of economic profit that is lost when an excess burden is placed on a good.
+ANSWER: deadweight loss [accept excess burden; prompt on “allocative inefficiency”]
+Physical Science: Name the following about chemistry lab techniques.
+Team B: In filtration, the Buchner type of this piece of equipment is often used. A smaller variety of this equipment is the
+Hirsch type.
+ANSWER: funnel
+Team A: Samples for techniques involving light, such as in a spectrophotometer, are placed into containers with this
+name.
+ANSWER: cuvette
+Tossup: An equation used to measure the strength of this technique takes into account multiple paths, diffusion, and mass
+transfer in order to calculate the height of a theoretical plate. The Van Deemter equation is used to calculate the resolving
+power of this technique. A version of this technique uses poly·histidine tags to obtain specific proteins. Nin·hydrin is used
+in some types to detect amino acids. The effectiveness of this technique can be measured with the retention factor. This
+technique always contains a stationary phase and a mobile phase. Name this lab technique which is used to separate
+components of a mixture and comes in affinity, thin-layer, and column types.
+ANSWER: chromatography [accept affinity chromatography or thin-layer chromatography or column
+chromatography or paper chromatography]
+Geography: Name these North American bodies of water.
+Team A: The Alamo, New, and Whitewater Rivers feed what saline lake that is found within California’s Imperial Valley
+near the Mexican border?
+ANSWER: Salton Sea
+Team B: The Truckee River, which discharges from Lake Tahoe, is the primary feeder of what Nevada lake near Reno
+whose name derives from the shape of the tufa formations found in and around the lake?
+ANSWER: Pyramid Lake
+Tossup: This body of water borders an abandoned lighthouse at a location known as Fourteen Mile Point. The Misquah
+Hills run along the west end of this body of water, which receives the discharge from Lake Nipigon. It surrounds the
+Keweenaw Peninsula, which is just east of the Apostle Islands. One island in this body of water is the site of predator-prey
+studies involving its native wolf and moose population. The St. Marys River flows past the city of Sault Ste. Marie (soo
+“saint” muh-REE) while draining this lake, which is the site of Isle Royale National Park. Found to the north of
+Michigan’s Upper Peninsula is what lake that is the largest of the Great Lakes?
+ANSWER: Lake Superior
+American History: Name these minor conflicts.
+Team B: A disagreement over the border between New Brunswick and Maine resulted in this bloodless dispute which was
+settled in 1842 by the Webster-Ashburton Treaty.
+ANSWER: Aroostook War [or Pork and Beans War]
+Team A: The Battle of Bad Axe was the last skirmish in this 1832 conflict that was fought by the U.S. primarily against
+members of the Sauk tribe in modern day Illinois.
+ANSWER: Black Hawk War
+Tossup: George Clymer donned various disguises while collecting information for the federal government during this
+conflict. One side in this conflict tried to gather support by publishing letters under the alias “Tom the Tinker.” David
+Bradford helped incite this conflict, which saw fighting at the Battle of Bower Hill that ended with the burning of John
+Neville’s house. “Light-Horse Harry” Lee led troops that were raised by the U.S. government to end this conflict, which
+was in response to a federal bill pushed by Alexander Hamilton to help pay off debts from the Revolutionary War. Name
+this Pennsylvania conflict of the 1790s that occurred in response to an excise tax on alcohol.
+ANSWER: Whiskey Rebellion [or Whiskey Insurrection]
+* Alphabet Round – Letter E
+1. (TWO WORD ANSWER) – Six day conflict in 1916 in which Ireland fought to secede from the United Kingdom.
+2. This literary term refers to a poetic line that runs from one line into the next line, without a syntactical break.
+3. (ACRONYM OR HYPHENATED ANSWER) – Bell’s inequality supposedly resolves what “paradox” of quantum
+mechanics, in which faster than light travel seems possible since information appears to move at a speed of 2c?
+4. German Surrealist artist who painted The Elephant Celebes.
+5. The Faber-Jackson relation is a mathematical formula for giving the brightness of what kind of galaxies, which are
+contrasted with spiral galaxies?
+6. There exists “Prose” and “Poetic” versions of these Icelandic texts compiled by Snorri, which are the primary source
+material for Norse mythology.
+7. Upper New York Bay island which was used for the processing of American immigrants during the late 19th and early
+20th centuries.
+8. This term, which was coined by William Graham Sumner, refers to the act of making judgments about another culture
+using only one’s own culture as a standard.
+9. Book of the Bible which follows Genesis.
+10. This fictional country, which is “over the range”, has laws in which it is a crime to be mentally ill and criminality is
+treated as a mental illness. It was created by Samuel Butler.
+11. (TWO WORD ANSWER) – Nation which was a participant in the 1969 Football War.
+12. Process in which a plant grows while in the absence of light.
+13. Wild man who becomes the companion of Gilgamesh.
+14. Composer whose orchestral output includes the Enigma Variations and Pomp and Circumstance marches.
+15. (TWO WORD ANSWER) – Spanish-speaking nation which controls the islands of Annobon and Bioko.
+16. A poem by Friedrich Holderlin dramatizes the final days of this philosopher, who legendarily jumped into a volcano to
+prove that the soul is immortal.
+17. 10th and 11th century Viking explorer who established the colony of Vinland in present day Newfoundland.
+18. This virus, named for a river in Africa, has recently killed thousands in West Africa; Eric Duncan was the first to die
+on U.S. soil due to the most recent outbreak of it.
+19. Adjective describing a reaction that consumes energy.
+20. This is the last name of couple Charles and Ray, renowned for their designs of modern furniture, as well as the movie
+Toccata for Toy Trains. They also created the book and film Powers of Ten, which starts with a picture of a universe and
+gradually zooms into a couple in a park.
+Alphabet Round – Letter E Answers
+1. Easter Rising or Easter Uprising or Easter Rebellion (TWO WORD ANSWER)
+2. enjambment
+3. EPR Paradox or Einstein-Podolsky-Rosen Paradox (ACRONYM OR HYPHENATED ANSWER)
+4. Max Ernst
+5. elliptical galaxies
+6. Eddas
+7. Ellis Island
+8. ethnocentrism [accept word forms]
+9. Book of Exodus
+10. Erewhon (“AIR”-uh-wahn)
+11. Republic of El Salvador [or Republica de El Salvador] (TWO WORD ANSWER)
+12. etiolation [accept word forms]
+13. Enkidu
+14. Sir Edward William Elgar
+15. Republic of Equitorial Guinea (TWO WORD ANSWER)
+16. Empedocles
+17. Leif Ericson or Leif Erikson
+18. ebola
+19. endergonic [do not accept “exergonic”]
+20. Charles Ormond and Berenice Raymond “Ray” Kaiser Eames
+* Lightning Round
+1. In one film made by this man, the protagonist uses camera flashbulbs to blind the killer Thorwald, whom he had been
+observing while recovering in a Greenwich Village apartment. Chocolate syrup was used to film a bathroom scene by this
+director in which Janet Leigh’s (leez) character is murdered at a motel. This director depicted Cary Grant climbing atop
+Mount Rushmore in North by Northwest. Name this British master of suspense who directed the films Rear Window and
+Psycho.
+ANSWER: Sir Alfred Joseph Hitchcock
+2. Both Isaac Newton and Joseph-Louis Lagrange give their name to interpolation schemes making use of these
+expressions. The Abel-Ruffini theorem illustrates that there is no general root-finding scheme for these kinds of
+mathematical expressions. Synthetic division is used to divide one of these expressions by another. Name these
+mathematical expressions which contain sums of variables raised to non-negative integer exponents, multiplied by
+coefficients.
+ANSWER: polynomials
+3. During the U.S. Civil War, this location was captured by Union troops at the beginning of the Burnside Expedition.
+Ralph Lane led a group that attempted to settle at this location, which was under the leadership of John White when
+Virginia Dare was born here. Its settlers carved the word “CROATOAN” onto a tree before mysteriously disappearing
+from this island. Sir Walter Raleigh oversaw the settlement of what North Carolina island that was the site of a “Lost
+Colony”?
+ANSWER: Roanoke Island [accept Roanoke Colony]
+4. This theorist argued that the rhetoric of the Cold War would induce the U.S.S.R. and U.S.A. to war in The Causes of
+World War III. He rejected the structural functionalist approach to his discipline in his book The Sociological
+Imagination. In another book, he included middle managers and those who attended Ivy League universities as potential
+members of the title group. Name this 20th century American sociologist who wrote The Power Elite.
+ANSWER: Charles Wright Mills
+5. This author wrote about Rosamond Vivian, who mistakenly marries the libertine Philip Tempest, in A Long Fatal Love
+Chase. While in New York City, one character created by this author falls in love with the German professor Friedrich
+Bhaer (BAY-er). In that same novel by this author, one of the title characters dies young after contracting scarlet fever.
+Name this author who wrote about Marmee and her four daughters, Meg, Jo, Beth, and Amy March, in her book Little
+Women.
+ANSWER: Louisa May Alcott
+6. The setting for this painting is near the location where its artist depicted a gate being opened for a canal boat in the
+painting The Lock. On its right side, an empty rowboat is next to a figure who stands in the water while holding a fishing
+pole. This painting depicts Willy Lott’s cottage, which is near Flatford Mill. The focus of this work is three black horses
+that pull the title object through the River Stour. Name this John Constable painting that depicts a cart used to carry the
+title crop.
+ANSWER: The Hay Wain
+7. A form of this element is used in many purification methods due to its high amounts of pores leading to high surface
+area. That is the “activated” type of this element. One-atom layer thick sheets of this element can be rolled up into
+nanotubes. An allotrope of this element was named after an architect who liked building geodesic domes. Name this
+element whose allotropes include buckminsterfullerene, graphene, and diamond.
+ANSWER: carbon
+8. One battle in this conflict took place along the Nebel River and saw Camille de Tallard captured while marching his
+troops towards Vienna. Following this war, Gibraltar was ceded to Great Britain. Queen Anne’s War was the North
+American phase of this conflict, which saw John Churchill, Duke of Marlborough, win the Battle of Blenheim. The death
+of Hapsburg ruler Charles II (the second) in 1700 triggered what war that was ended by the 1714 Treaty of Utrecht?
+ANSWER: War of the Spanish Succession
+9. One of this author’s novels features the chapter “The Massacre of the Innocents”, in which Sissy Jupe is reprimanded
+for not memorizing the “facts” of Thomas Gradgrind. In addition to that novel set in Coketown, this author wrote a novel
+in which Mr. Bumble employs the title character in a workhouse. That book by this author features the criminal Fagin and
+sees the title child request more gruel with the words “Please, sir, I want some more.” Name this author of Hard Times
+and Oliver Twist.
+ANSWER: Charles John Huffam Dickens
+10. According to one myth, the autumn crocus flower sprang from the blood of this figure, who made use of a fennel stalk
+during his most notable action. As part of the “trick at Mecone”, he fooled Zeus into eating animal bones. He ensured the
+survival of his son, Deucalion, by warning him of an impending flood. Following his most notable action, he was chained
+to a rock so that an eagle would eat his liver every day. Name this Titan from Greek myth who stole fire from the gods
+and gave it to man.
+ANSWER: Prometheus
+11. One work by this philosopher is written as a series of six daily inquiries into the nature of knowledge and asks if a
+human can imagine a “chiliagon”; one of those inquiries by this philosopher posits an “evil genius” who is trying to
+deceive the author into believing that everything he has ever known is an illusion. His formal philosophical system is
+outlined in his book Discourse on Method. Name this French philosopher linked with the statement “cogito ergo sum”,
+translated as “I think, therefore I am.”
+ANSWER: Rene Descartes (day-KART)
+12. To begin this battle, a structure now known as Pegasus Bridge was captured as part of Operation Deadstick. Operation
+Bodyguard involved various deception techniques prior to this battle, which saw the capture of Pointe du Hoc (pawn du
+hawk). Gerd von Rundstedt led the defenders in this battle, which was code named Operation (*) Overlord. This battle
+targeted Juno, Omaha, and three other beaches as part of history’s largest amphibious assault. Name this World War 2
+battle of 1944 in which the Allies invaded Normandy.
+ANSWER: D-Day [or Operation Neptune; accept Operation Overlord before (*); accept Normandy landings or similar
+answers including Normandy and the notion of an attack before “Normandy”]
+13. This experiment followed one that demonstrated bacterial transformation; that prior experiment was carried out by
+Avery, MacLeod (muh-“CLOUD”), and McCarty. In this experiment, bacteria were grown on media containing
+radioactive isotopes of sulfur and phosphorus. This experiment looked at whether those isotopes were present when T2
+phages infected nonradioactive bacteria. Name this doubly eponymous 1952 experiment which determined that genetic
+material is found in DNA.
+ANSWER: Hershey-Chase experiment
+14. One religious text from this region, the Bardo Thodol, lists various states of “intermediate consciousness” and is
+known as this place’s Book of the Dead. The Bon religion in this region was superseded by a Buddhist tradition that is
+split into Yellow Hat and Red Hat sects. A religious role in this region has a name that literally means “ocean teacher” and
+is held by Tenzin Gyatso. Name this Asian region near the Himalayan mountains whose spiritual leader is the Dalai Lama.
+ANSWER: Tibet [or Bod or Xizang (she-zahng) Aytonomous Region; prompt on “China” or “People’s Republic of
+China” or “PRC” or “Zhongguo” or “Zhonghua Renmin Gongheguo”; do not prompt on “Republic of China”]
+15. One story in this collection features travellers visiting the City of Brass to find a lamp that used to belong to King
+Solomon. This collection features a story in which Morgiana dances with a dagger to save her master. The frame story of
+this collection, which was translated by Sir Richard Burton, involves King Shahryar (SHAH-ree-ar) being told a story
+every night by Queen Scheherazade (shuh-HER-uh-zad). Name this collection of stories that includes “Aladdin’s Lamp”
+and “Ali Baba and the Forty Thieves.”
+ANSWER: The Thousand and One Nights or Arabian Nights [or Alf layla wa-layla; accept One Thousand and One
+Nights or A Thousand and One Nights or The Book of the Thousand Nights and a Night or The Thousand and One
+Arabian Nights]
+16. Near the end of his rule, this leader ordered the creation of a Quran written in his own blood. Shortly after succeeding
+Ahmed Hassan al-Bakr, he was the target of an assassination attempt which prompted reprisals in the Dujail (doo-ZHAIL)
+Massacre. This leader’s al-Anfal Campaign involved a chemical attack against Halabja, a Kurdish city, during a war he
+waged against Iran from 1980 to 1988. His 1990 invasion of Kuwait triggered the Gulf War. Name this Iraqi leader
+deposed by the U.S. in 2003.
+ANSWER: Saddam Hussein (suh-DAHM hoo-SAYN) Abd al-Majid al-Tikriti [accept either underlined name]
+17. Composer and genre required. The seventeenth of these pieces opens with a one and a half-measure Largo section
+consisting of a single A major chord. The twenty-ninth of these pieces contains an extremely long adagio sostenuto
+(“SAUCE”-tih-noo-toh) third movement in F sharp minor. Another adagio sostenuto opens the fourteenth of these pieces,
+which was originally named “Quasi una fantasia.” Name these pieces which include ones nicknamed “Tempest”,
+“Hammerklavier”, and “Moonlight.”
+ANSWER: piano sonatas by Ludwig van Beethoven [prompt on partial answer]
+18. For a magnet, this quantity is given by the cross product of the magnetic moment with the magnetic field. This
+quantity, which is measured in joules per radian, or Newton-meters, is also given by the time derivative of angular
+momentum. Classically speaking, this quantity is given by the cross product of the position and the net force. Name this
+quantity which is sometimes called the rotational analogue of force.
+ANSWER: torque [prompt on “moment of force”]
+19. Near its source, this river has part of its flow diverted into the Segura River watershed. The mouth of this river is just
+north of the Bay of Setubal. This river flows under the 25th of April Bridge, whose name commemorates the Carnation
+Revolution that occurred in the most populous city along its banks. That city along this river was devastated in a 1755
+earthquake and contains Europe’s longest bridge, named after Vasco da Gama. Name this longest river on the Iberian
+Peninsula, which meets the Atlantic Ocean at Lisbon, Portugal.
+ANSWER: Tagus River (TAY-gus) [or Rio Tajo or Rio Tejo]
+20. The second section of this poem compares eyes to “sunlight on a broken column.” This poem’s fifth part states
+“Between the desire, and the spasm, between the potency and the existence … falls the shadow.” Its title figures have
+headpieces filled with straw and are leaning together, “shape without form, shade without color.” This poem ends by
+asserting that “this is the way the world ends, not with a bang but a whimper.” Name this poem by T.S. Eliot.
+ANSWER: “The Hollow Men”
+
