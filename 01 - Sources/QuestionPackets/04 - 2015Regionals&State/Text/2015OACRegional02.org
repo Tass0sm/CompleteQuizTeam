@@ -1,0 +1,583 @@
+* 2015 OAC Regionals – Round 2
+** Round One
+*** American Literature: Name the following authors who wrote coming of age novels.
+**** Team A:                                                          :drill:
+     The classic American coming of age novel is what author’s The
+     Catcher in the Rye?
+***** ANSWER:
+      Jerome David Salinger
+**** Team B:                                                          :drill:
+     What African-American author of Native Son wrote about his years
+     of development in the autobiographical novel Black Boy?
+***** ANSWER:
+      Richard Nathaniel Wright
+**** Tossup:                                                          :drill:
+     This author’s first novel is a coming of age novel that ends with
+     Monsignor (mohn-SEEN-yor) Darcy dying and Rosalind Connage
+     breaking up with Amory Blaine. Another novel by this author,
+     which fictionalizes his relationship with Zelda Sayre, describes
+     the dissolving marriage of actress Nicole Warren and psychologist
+     Dick Diver. This author of This Side of Paradise and Tender is
+     the Night wrote another novel whose characters include the golf
+     cheat Jordan Baker, as well as the adulterers Myrtle Wilson and
+     Tom Buchanan. Name this author of the Jazz Age who is best known
+     for The Great Gatsby.
+***** ANSWER:
+      Francis Scott Key Fitzgerald
+*** Mathematics: Pencil and paper ready. You will have 30 seconds for each team question.
+**** Team B:                                                          :drill:
+     Solve for x and y in the following equations: 6x + 2y = 26 (“six
+     x plus two y equals twenty-six”) and 4x + 3y = 19 (“four x plus
+     three y equals nineteen”).
+***** ANSWER:
+      x = 4 and y = 1 [accept in either order; prompt on answers that do not
+      specify “x” or “y”]
+**** Team A:                                                          :drill:
+     Solve for x and y in the following equations: 4x + 12y = 36
+     (“four x plus twelve y equals thirty-six”) and x + y = 5 (“x plus
+     y equals five”).
+***** ANSWER:
+      x =3 and y = 2 [accept in either order; prompt on answers that do not
+      specify “x” or “y”]
+**** Tossup:                                                          :drill:
+     Pencil and paper will not be necessary. This is the shape of the
+     matrix that is generated when using Gaussian elimination to solve
+     systems of linear equations. One of these shapes is inscribed
+     into a circle by Thales’ (THAY-leez-iz) theorem. The area of one
+     of these shapes can be determined by halving the magnitude of the
+     cross product of two vectors.  The inequality named for these
+     objects is proven by using the Cauchy-Schwartz (koh-SHEE shwarts)
+     inequality and states that one of their sides must be shorter
+     than the other two. Equilateral, isosceles, and scalene are the
+     three major classifications of what three sided polygons?
+***** ANSWER:
+      triangles
+*** World History: Name these nations.
+**** Team A:                                                          :drill:
+     Current U.N. Secretary-General Ban Ki-moon hails from this Asian
+     nation which is separated from its northern neighbor by a
+     demilitarized zone at the 38th parallel.
+***** ANSWER:
+      South Korea [or Republic of Korea or ROK or Taehan-min'guk or Han'guk; prompt on “Korea”; do not
+      accept “North Korea” or “Democratic People’s Republic of Korea”]
+**** Team B:                                                          :drill:
+     The 1903 Hay-Banau-Varilla Treaty was signed between the U.S. and
+     this Central American nation less than a month after it declared
+     independence from its southern neighbor, Colombia.
+***** ANSWER:
+      Republic of Panama [or Republica de Panama]
+**** Tossup:                                                          :drill:
+     In this nation, the Muldergate Scandal led to the resignation of
+     Prime Minister B.J. Vorster. Prior to independence, one coalition
+     in this nation advocated for equality with the Freedom
+     Charter. Notable activists within this nation included Steve Biko
+     and a man whose conviction at the Rivonia Trial led to his
+     imprisonment on Robben Island.  Formed out of the union of four
+     British colonies, including Natal and Transvaal, this nation was
+     the home of both Desmond Tutu and F.W. de Klerk, each of whom
+     were given Nobel Peace Prizes for their fight against
+     apartheid. Name this African nation once ruled by Nelson Mandela.
+***** ANSWER:
+      Republic of South Africa [prompt on “RSA”]
+***  Fine Arts: Name these nicknamed symphonies.
+**** Team B:                                                          :drill:
+     This symphony by Joseph Haydn (“HIGH”-din) earned its nickname
+     from a sudden fortissimo chord that is placed in its Andante
+     second movement, which may have been intended to wake people up.
+***** ANSWER:
+      Symphony No. 94 in G major, “Surprise” [accept either underlined portion; accept mit den Paukenschlag]
+**** Team A:                                                          :drill:
+     This symphony, the eighth by Schubert, contains only two
+     completed movements.
+***** ANSWER:
+      Unfinished Symphony [or Unvollendete]
+**** Tossup:                                                          :drill:
+     In writing this symphony, the composer originally intended to
+     have the audience guess the programme to it, leading him to call
+     it “A Programme Symphony” before it was performed. In the middle
+     of its first movement, the bassoon ends a phrase on a dynamic
+     marking of pppppp (“P” “P” “P” “P” “P” “P”). This symphony’s
+     second movement, written in 5/4 (“five” “four”) time, has been
+     called a “limping waltz.” Due to its nickname and the slow ending
+     to this symphony, this piece is sometimes referred to as the
+     composer’s “suicide note,” as nine days after it premiered, the
+     composer died of cholera. Name the last symphony composed by
+     Peter Tchaikovsky (chy-KOFF-skee).
+***** ANSWER:
+      Symphony No. 6 in B minor, “Pathetique” (paa-theh-TEEK) [accept either underlined portion]
+*** Life Science: Name these animal phyla.
+**** Team A:                                                          :drill:
+     This phylum consists of flatworms; notable members include
+     tapeworms, planarians, and turbellaria.
+***** ANSWER:
+      Platyhelminthes (pla-tee-hel-MIN-theez)
+**** Team B:                                                          :drill:
+     Sea cucumbers and sea urchins are part of this phylum, which have
+     a water vascular system and radial symmetry.
+***** ANSWER:
+      Echinodermata (ih-KYE-no-der-MAH-tuh) or echinoderms
+**** Tossup:                                                          :drill:
+     A group of organisms within this phylum undergo retrogressive
+     metamorphosis when shifting from a larval form to a mature form,
+     thus becoming sessile. Some organisms in this phylum have a
+     mucus-producing organ called the endostyle. Sea squirts and
+     lancelets belong to this phylum. One of this phylum’s
+     characteristic aspects is the formation of pharyngeal
+     (fuh-RIN-gee-uhl) slits. Along with Echinodermata, this phylum’s
+     members develop the anus before the mouth during gastrulation,
+     and are thus classified as Deuterostomes. All members of this
+     phylum possess a notochord, which, in its more advanced
+     organisms, develops into a spine. Name this phylum which contains
+     all vertebrates.
+***** ANSWER:
+      Chordata or chordates
+** Round Two
+*** English / World Literature: Name the following related to William Shakespeare.
+**** Team B:                                                          :drill:
+     Antonio is the title character of what play by William
+     Shakespeare that includes a moneylender named Shylock?
+***** ANSWER:
+      The Merchant of Venice
+**** Team A:                                                          :drill:
+     What play by William Shakespeare includes Goneril [GAHN-er-uhl]
+     and Regan, who are two ungrateful daughters of the title
+     character?
+***** ANSWER:
+      The Tragedy of King Lear
+**** Tossup:                                                          :drill:
+     This writer imagined a fictional sister of William Shakespeare
+     who is denied the opportunity to write because she lacks “a room
+     of one’s own.” This author wrote about six friends, including
+     Bernard and Neville (neh-VUHL), who soliloquize on the nature of
+     life, in an experimental work in which the theme of water
+     provides a backdrop. Lily Briscoe visits the Ramsays (RAM-seez),
+     who live on the Isle of Skye, in a book by this author named for
+     a sea-side structure that Mr. Ramsay wishes to visit. Name this
+     author of the Bloomsbury Group who penned The Waves and To the
+     Lighthouse.
+***** ANSWER:
+      Adeline Virginia Woolf [accept Virginia Stephen]
+*** American Government / Economics: Name these amendments to the U.S. Constitution.
+**** Team A:                                                          :drill:
+     Ratified in 1961, this amendment gave citizens of the District of
+     Columbia the ability to vote in presidential elections by
+     granting Washington D.C. members in the Electoral College.
+***** ANSWER:
+      23rd Amendment
+**** Team B:                                                          :drill:
+     Ratified in 1913, this amendment allows for the direct election
+     of U.S. Senators, who had previously been chosen by state
+     legislatures.
+***** ANSWER:
+      17th Amendment
+**** Tossup:                                                          :drill:
+     Joseph McKenna argued that this amendment had an “expansive and
+     vital character” in the majority opinion for Weems v. United
+     States. Since the 1958 case Trop v. Dulles, the “evolving
+     standards of decency” test has been applied in cases dealing with
+     this amendment, which, along with the 14th amendment, was at the
+     center of a 1972 case involving William Furman. In the case Gregg
+     v. Georgia, the Supreme Court ruled that this amendment was not
+     automatically violated by sentences involving the death
+     penalty. Name this Bill of Rights amendment which outlaws
+     “excessive bail, “excessive fines,” and “cruel and unusual
+     punishments.”
+***** ANSWER:
+      8th Amendment
+*** Physics: Name these scientists.
+**** Team B:                                                          :drill:
+     What Swedish astronomer gives his name to a scale that is defined
+     by adding -273.15 units to the Kelvin scale?
+***** ANSWER:
+      Anders Celsius
+**** Team A:                                                          :drill:
+     What German physicist, known for proving the existence of
+     electromagnetic waves, gives his name to the SI unit of
+     frequency?
+***** ANSWER:
+      Heinrich Rudolf Hertz
+**** Tossup:                                                          :drill:
+     Like the hertz, this scientist’s namesake SI derived unit has
+     units of inverse seconds. This man’s father discovered that light
+     changes the voltage of a material in the photovoltaic
+     effect. This scientist’s greatest discovery involved salts that
+     emitted rays; those rays were captured on photographic plates. He
+     was awarded a Nobel Prize in Physics along with Pierre and Marie
+     Curie (“CURE”-ee) for his discovery of radioactivity in
+     uranium. Name this scientist who gives his name to the SI unit of
+     radioactivity, which is abbreviated “Bq” (“B” “Q”).
+***** ANSWER:
+      Antoine Henri Becquerel
+*** Geography: Name these African nations.
+**** Team A:                                                          :drill:
+     The western terminus of the Atlas Mountains is in this nation
+     that is directly to the north of the territory of Western Sahara,
+     over which this nation disputes ownership.
+***** ANSWER:
+      Kingdom of Morocco [or al-Mamlakah al-Maghribiyah]
+**** Team B:                                                          :drill:
+     The southwestern shores of Lake Chad border what largest
+     oil-producing nation in Africa that is directly north of the
+     Bight of Biafra, an arm of the Gulf of Guinea.
+***** ANSWER:
+      Federal Republic of Nigeria
+**** Tossup:                                                          :drill:
+     The extreme north part of this nation contains colorful hot
+     springs within a volcanic crater named Dallol, which is within
+     the Danakil Depression and recognized as having the hottest
+     average temperature in the world. UNESCO established a World
+     Heritage Site at the ancient ruins of its city of Axum
+     (AHK-soom). The north end of Lake Turkana is controlled by this
+     nation, as is all of Lake Tana, which is the source of the Blue
+     Nile River. It disputes a border with its northern neighbor,
+     Eritrea, which gained independence from this nation. Sudan, South
+     Sudan, Kenya, Djibouti (jih-BOO- tee), and Somalia also share
+     borders with what East African nation whose capital is Addis
+     Ababa?
+***** ANSWER:
+      Federal Democratic Republic of Ethiopia [or Ityop'iya Federalawi Demokrasiyawi Ripeblik]
+*** American History: Name these 19th century events.
+**** Team B:                                                          :drill:
+     Fort Clatsop was constructed in 1805 as part of this expedition,
+     during which Sacagawea aided in the exploration of lands recently
+     acquired by the U.S. in the Louisiana Purchase.
+***** ANSWER:
+      Lewis and Clark expedition [accept similar answers mentioning Meriwether Lewis and William Clark;
+      accept Corps of Discovery expedition]
+**** Team A:                                                          :drill:
+     This event, the participants in which were often referred to as
+     49ers, was set off by the 1848 discovery of a certain commodity
+     by James Marshall at Sutter’s Mill.
+***** ANSWER:
+      California Gold Rush [prompt on “gold rush”]
+**** Tossup:                                                         :drill:
+     One man injured during this event later killed his wife, Clara
+     Harris, while serving as a U.S. Consul; that man was Henry
+     Rathbone. The target of this event died at the Peterson
+     House. Mary Surratt became the first woman to be executed by the
+     U.S. government following this event, which occurred on the same
+     night that Lewis Powell attempted to kill Secretary of State
+     William Seward. Doctor Samuel Mudd was jailed for treating the
+     broken leg of its perpetrator, who shouted “Sic semper tyrannis”
+     after jumping onto the stage during a showing of the play Our
+     American Cousin. Name this 1865 event carried out at Ford’s
+     Theater by John Wilkes Booth.
+***** ANSWER:
+      assassination of Abraham Lincoln [accept killing of Abraham Lincoln, or other equivalents; prompt if
+      Lincoln is not mentioned]
+** Alphabet Round – Letter G
+*** Give                                                              :drill:
+    (TWO WORD ANSWER) – This term refers to a densely packed region of
+    stars, usually part of a galaxy’s core that are bound by gravity.
+**** Answer
+     globular cluster (TWO WORD ANSWER)
+*** Give                                                              :drill:
+    Organization co-founded in 1867 by Oliver Kelley to serve as an
+    advocacy group for farmers.
+**** Answer
+     The Grange [accept The National Grange of the Order of Patrons of Husbandry]
+*** Give                                                              :drill:
+    Set of three piano pieces by Erik Satie, which were named after
+    Ancient Greek festivals.
+**** Answer
+     Three Gymnopedies or Trois Gymnopedies
+*** Give                                                              :drill:
+    (MULTI-WORD ANSWER) – Per and Beret Hansa are the primary
+    characters of this 1924 novel by Ole Rolvaag.
+**** Answer
+     Giants in the Earth (MULTI-WORD ANSWER)
+*** Give                                                              :drill:
+    This African-American suspect was killed on July 17th, 2014 after
+    he was put into a chokehold by the NYPD. The grand jury chose not
+    to indict the officer responsible for his death.
+**** Answer
+     Eric Garner
+*** Give                                                              :drill:
+    (TWO WORD ANSWER) – Object from Greek mythology which was the
+    focus of a quest by Jason and the Argonauts.
+**** Answer
+     golden fleece (TWO WORD ANSWER)
+*** Give                                                              :drill:
+    In ballet, this term refers to a movement in which a leg is
+    brushed outward, which then takes the weight while the second leg
+    is brushed in to meet it.
+**** Answer
+     glissade (glee-SAHD)
+*** Give                                                              :drill:
+    Liberal 19th century British prime minister who was the primary
+    political rival of Benjamin Disraeli.
+**** Answer
+     William Ewart Gladstone
+*** Give                                                              :drill:
+    (MULTI-WORD ANSWER) – Formula that gives the number of degrees of
+    freedom for a substance based on the number of distinct species
+    and phases that exist.
+**** Answer
+     Gibbs phase rule (MULTI-WORD ANSWER)
+*** Give                                                              :drill:
+    This aristocratic family has been engaged in a blood feud with the
+    Shepherdsons in The Adventures of Huckleberry Finn.
+**** Answer
+     Grangerfords
+*** Give                                                              :drill:
+    This Princeton anthropologist borrowed a term from Gilbert Ryle to
+    describe the act of describing a cultural act and all of its
+    sociological implications, which he termed “thick description.”
+**** Answer
+     Clifford James Geertz
+*** Give                                                              :drill:
+    (TWO WORD ANSWER) – Ionizing radiation can be detected using this
+    type of device, which is sometimes named for Walther
+    Muller. Radioactive materials are often detected using it.
+**** Answer
+     Geiger-Muller Counter (TWO WORD ANSWER)
+*** Give                                                              :drill:
+    18th century English artist best known for his portrait painting
+    titled The Blue Boy.
+**** Answer
+     Thomas Gainsborough
+*** Give                                                              :drill:
+    Argentine-born Cuban revolutionary leader who was executed in 1967
+    by Bolivian soldier Mario Teran.
+**** Answer
+     Ernesto “Che” Guevara
+*** Give                                                              :drill:
+    Large Asian desert located within China and Mongolia.
+**** Answer
+     Gobi Desert or Govi Desert or Gebi Desert
+*** Give                                                              :drill:
+    (TWO WORD ANSWER) – Although it focuses on Harry Bertram and Dirk
+    Hatteraick, this novel by Sir Walter Scott is named for an
+    astrologer who predicts Harry Bertram’s future.
+**** Answer
+     Guy Mannering (TWO WORD ANSWER)
+*** Give                                                              :drill:
+    Biblical garden where Jesus was arrested just prior to his
+    crucifixion.
+**** Answer
+     Gethsemane (geth-SEM-uh-nee)
+*** Give                                                              :drill:
+    Digestive organ found in animals such as birds that is used to
+    mechanically grind up food.
+**** Answer
+     gizzard
+*** Give                                                              :drill:
+    (TWO WORD ANSWER) – Term used for the collection of legislative
+    programs overseen by Lyndon B. Johnson.
+**** Answer
+     Great Society (TWO WORD ANSWER)
+*** Give                                                              :drill:
+    Francois Rabelais created this literary giant, the father of
+    Pantagruel, who, in one episode, puts a bunch of people in a salad
+    and eats them.
+**** Answer
+     Gargantua
+** Lightning Round
+*** Give                                                              :drill:
+    This man was the founder of an Ambulance Corps (“core”) that
+    served as stretcher-bearers during the Second Boer War. He signed
+    a pact with Lord Irwin in an effort to end a tax that was the
+    subject of a protest journey to the city of Dandi (DUN-dee) known
+    as the Salt March. This advocate of a non-violent resistance known
+    as satyagraha was assassinated by Nathuram Godse (NAW-too-rahm
+    GAWD-say) in 1948. Name this fighter for Indian independence who
+    is known by the title Mahatma.
+**** ANSWER:
+     Mahatma Gandhi [or Mohandas Karamchand Gandhi]
+*** Give                                                              :drill:
+    These thyreophorans (thigh-ree-oh-FOR-ans) were discovered by
+    Othniel Marsh during the so-called Bone Wars with Edward Cope. In
+    fact, Othniel Marsh suspected that they had a second brain. One of
+    their defensive weapons is the thagomizer, a series of spikes that
+    can be found on their tails. These (*) dinosaurs are named for the
+    seventeen dermal structures that protrude from their back. Name
+    these herbivorous dinosaurs known for the giant plates that run
+    along their spines.
+**** ANSWER:
+     stegosaurus [prompt on “dinosaurs” before (*)]
+*** Give                                                              :drill:
+    In ancient times, this structure housed an idol of Hubal, a god
+    who was venerated by tossing arrows at him. The qibla (KIB-luh) is
+    formally defined using this structure as a reference point. A
+    black stone that is a component of this structure supposedly dates
+    back from the time of Adam and Eve. During the tawaf (tuh-WAHF),
+    it is necessary to walk around this structure seven times. Name
+    this most sacred site in Islam, a black, cubical structure at the
+    center of The Grand Mosque in Mecca.
+**** ANSWER:
+     Kaaba (KAH-bah) [or al-Ka’aba]
+*** Give                                                              :drill:
+    This work’s narrator is visited by the “Poet”, who is suspected to
+    be Ellery Channing, in the chapter “Brute Neighbors.”  In its
+    chapter “The Village”, the narrator is sent to jail for not paying
+    a poll tax. Its first chapter, “Economy”, discusses the cost of
+    materials needed to build a house near the title pond. Name this
+    piece of nature writing which describes “life in the woods” and
+    was authored by Henry David Thoreau.
+**** ANSWER:
+     Walden; or, Life in the Woods
+*** Give                                                              :drill:
+    A death that occurs during the commission of one of these events
+    is not considered murder according to a rule named for these acts
+    and manslaughter. They are classified as non-indictable
+    (non-in-DITE-uh-bul) and are typically punishable by a year or
+    less in prison. These crimes include such things as public
+    intoxication, vandalism, and petty theft. Name these crimes which
+    are more serious than infractions but much less serious than
+    felonies.
+**** ANSWER:
+     misdemeanors [do not accept or prompt on “felonies” or “crimes”]
+*** Give                                                              :drill:
+    After an attempt to marry off his oldest legitimate son was
+    rebuffed, this ruler led a military campaign known as the “Rough
+    Wooing.” Robert Aske (ask) led the Pilgrimage of Grace against
+    this leader, who oversaw passage of the Act of Supremacy which
+    established the Church of England. This ruler fathered his
+    successor, Edward VI (the sixth), with Jane Seymour after ending
+    marriages with Catherine of Aragon and Anne Boleyn (boh-LIN). Name
+    this England king who had six wives.
+**** ANSWER:
+     Henry VIII (the eighth) of England [prompt on “Henry”]
+*** Give                                                              :drill:
+    The mathematical formulation of this principle involves finding a
+    condition in which all isothermal processes are isentropic. This
+    statement is sometimes known as (*) Nernst’s heat theorem since
+    Walter Nernst first discovered that it is impossible for an
+    isotherm to reach a certain state in a finite number of steps. It
+    states that the entropy of a perfect crystal at absolute zero is
+    zero. Name this law that establishes the impossibility of a
+    substance at absolute zero.
+**** ANSWER:
+     third law of thermodynamics [or 3rd law of thermodynamics; prompt on partial answer; prompt on
+*** Give                                                              :drill:
+    s heat theorem” before (*)]
+    8. One sculpture by this artist features a blind-folded man since the source of the Nile was not known at the time. This
+    artist depicted the Ganges, the Nile, the Danube, and the Rio de la Plata in The Fountain of the Four Rivers. In another of
+    his sculptures, which resides in the Cornaro Chapel, an angel uses an arrow to piece the heart of the title Carmelite nun.
+    Name this Baroque sculptor who created The Ecstasy of St. Teresa.
+**** ANSWER:
+     Gianlorenzo Bernini (“john”-loh-REN-zoh bair-NEE-nee) [or Giovanni Lorenzo Bernini]
+*** Give                                                              :drill:
+    One character in this novel, Helene, dies from an overdose of
+    abortion medication. Another character in this novel uses
+    numerical divination to affirm his belief that a certain general
+    is the Antichrist. The Bezukov and Rostov families are depicted in
+    this novel, which opens at a soiree (swarr-AY) thrown by Anna
+    Scherer. Name this very long novel that depicts Russian life
+    during the Napoleonic invasion of Russia and was written by Leo
+    Tolstoy.
+**** ANSWER:
+     War and Peace [or Voyna I Mir]
+*** Give                                                              :drill:
+    The base of this peninsula contains the Terminos Lagoon, and it is
+    also the site of the UNESCO biosphere reserve Sian Ka’an (SEE-ahn
+    kahn). The island of Cozumel is off the eastern coast of this
+    peninsula, which is to the northeast of the Isthmus of Tehuantepec
+    (tuh-WAHN-tuh-pek). The Chicxulub (chick-shoo-LOOB) asteroid
+    crater is located here, as is the abandoned city of Chichen Itza
+    (CHEE-chen EET-sah) once used by the Mayans. The resort town of
+    Cancun is on what peninsula at the eastern end of Mexico?
+**** ANSWER:
+     Yucatan [yoo-kuh-TAHN] Peninsula [or Peninsula de Yucatan]
+*** Give                                                              :drill:
+    Entero·bacteria can carry out a mixed-acid type of this process,
+    which creates a wide range of products. Pyruvate de·carboxyl·ase
+    is a required enzyme in some organisms that can do this. The study
+    of this process is zymurgy (ZIH-mer- jee). The end result of this
+    process is either ethanol or lactic acid. Name this anaerobic
+    process that creates energy for organisms such as yeasts.
+**** ANSWER:
+     fermentation [accept word forms; accept alcohol fermentation or lactic acid fermentation or mixed acid
+*** Give                                                              :drill:
+    or ethanol fermentation; prompt on “anaerobic respiration”]
+    12. One of this composer’s pieces was the source of the melody for the hymn “I Vow to Thee, My Country.” The last
+    movement of a suite by this composer ends with a fadeout and uses an offstage women’s chorus. The strings play col
+    legno in the opening of the first movement of his most famous composition, which is in 5/4 (“five four”) time and depicts
+    the “Bringer of War.” Name the British composer who wrote The Planets.
+**** ANSWER:
+     Gustavus Theodore von Holst
+*** Give                                                              :drill:
+    One of these conflicts occurred in response to a siege led by
+    Zengi that brought about the downfall of the County of Edessa. The
+    Latin Empire was established following one of these conflicts,
+    another one of which targeted adherents of Catharism known as
+    Albigensians (al-bih-JEN-see-uhnz). Saladin fought against Richard
+    the Lionhearted in the third of these conflicts, and the first one
+    was called at the Council of Clermont (KLAIR-mahnt) by Pope Urban
+    II (the second) in
+    1095. Name these medieval holy wars launched by the Catholic Church.
+**** ANSWER:
+     crusades [accept Second Crusade or Fourth Crusade or Albigensian Crusade or Third Crusade or First
+*** Give                                                              :drill:
+
+    14. This philosopher wrote that the point of philosophy was to change the world, not merely interpret it, in a set of eleven
+    philosophical notes intended to be the first chapter to his book The German Ideology. This author of the “Theses on
+    Feuerbach (FOY-er-BAHK)” wrote another work subtitled Critique of Political Economy. One work co-authored by him
+    states that “a specter is haunting Europe” and urges “workers of the world, unite!” Name this philosopher who authored
+    Das Kapital (dahss KAH-pee-tahl) and partnered with Friedrich Engels (AYN-gullz) to write The Communist Manifesto.
+**** ANSWER:
+     Karl Marx
+*** Give                                                              :drill:
+    At the beginning of this play, its main character states that he
+    received a postcard from his father in Mazatlan which simply
+    stated “Hello - Good-bye!” This play ends with a character
+    commanding his sister to blow out her candles. In its climax, the
+    gentleman-caller Jim O’Connor accidentally destroys a unicorn made
+    of the title substance. Name this so- called “memory play” that
+    was about the Wingfield family and written by Tennessee Williams.
+**** ANSWER:
+     The Glass Menagerie
+*** Give                                                              :drill:
+    In one form, this god crushes the dwarf Apasmara Purusha under his
+    foot. He wears Vasuki around his neck and is often depicted
+    performing the Nataraj dance. This god swallowed poison during the
+    churning of the milk ocean, which turned his throat blue. This god
+    uses his third eye to kill Kama, and his wife is Parvati. Name
+    this member of the Trimurti known as the destroyer.
+**** ANSWER:
+     Shiva [or Siva or Rudra or Mahadeva]
+*** Give                                                              :drill:
+    When a substance reaches this value, bumping may occur. In the
+    technique called reflux, the solvent is kept at this value. An
+    ebulliometer (uh-boo-lee-AH-muh-tur) is used to measure this
+    quantity. In a colligative property, higher numbers of particles
+    in solution raises this value. This is the point where the vapor
+    pressure of a liquid equals the pressure of its surroundings. Name
+    this temperature at which a liquid can evaporate into a gas.
+**** ANSWER:
+     boiling point or boiling temperature
+*** Give                                                              :drill:
+    The Battle of Fajardo (fuh-HAR-doh) occurred near the end of this
+    war, during which Henry Glass captained the USS Charleston. One
+    commander stated “you may fire when you are ready, Gridley” during
+    this war, which was declared shortly after the Teller Amendment
+    was enacted. Joseph Pulitzer and William Randolph Hearst engaged
+    in yellow journalism before and during this conflict, which began
+    after the USS Maine exploded in Havana Harbor. Name this U.S.  war
+    fought against a European nation in 1898.
+**** ANSWER:
+     Spanish-American War [or Guerra hispano-estadounidense]
+*** Give                                                              :drill:
+    One painting by this artist shows a dog in the lap of a reading
+    woman who sits next to a girl looking through black bars at the
+    title location. Victorine Meurent (VEEK-tor-ehn murr-AWN) modeled
+    for both that painting and another by this artist in which a nude
+    woman reclines on a bed next to a black woman holding
+    flowers. Another of his works takes place during a picnic in the
+    woods and shows a nude woman sitting with two well-dressed
+    men. Name this French artist of The Railway, Olympia, and The
+    Luncheon on the Grass.
+**** ANSWER:
+     Edouard Manet (AYD-war maa-NAY) [do not accept or prompt on “Monet” (moh-NAY)]
+*** Give                                                              :drill:
+    One chapter in this book compares two characters to a jackal and a
+    lion. A minor character in this book is the grave robber Jerry
+    Cruncher, who is known as the “resurrection man.” This book ends
+    with the line “it is a far, far, better thing that I do, than I
+    have ever done”; that line occurs shortly after Madame Defarge
+    (deh-FARJ) is killed. Sidney Carlton gives his life to save
+    Charles Darnay at the end of what historical novel by Charles
+    Dickens?
+**** ANSWER:
+     A Tale of Two Cities
+
